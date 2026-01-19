@@ -72,7 +72,6 @@ header {
   background: none;
   border: none;
   cursor: pointer;
-  z-index: 1100;
 }
 
 /* Desktop nav */
