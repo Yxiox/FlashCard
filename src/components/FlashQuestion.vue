@@ -143,7 +143,12 @@ return {
     justify-content: flex-start;
     padding-top: 5px;
     font-size: 1.2rem;
-}
+    min-height: 100dvh;
+    width: 100%;
+    overflow-x: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 
 #header h2{
     border: 1px rgb(147, 255, 192) solid;
@@ -153,44 +158,52 @@ return {
     font-size: 2rem;
 }
 
-#body{
-    height: 80vh;
-    width: 80%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+#body {
+  width: 100%;
+  max-width: 900px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
-#question{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: justify;
-    padding: 0.3rem 0.9rem;
+#question {
+  text-align: center;
+  padding: 0.5rem;
 }
 
-#answers{
-    display: grid;
+#question h3 {
+  font-size: clamp(1rem, 4vw, 1.3rem);
+}
+
+#answers {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  width: 100%;
+  z-index: 1;
+}
+
+
+@media (min-width: 640px) {
+  #answers {
     grid-template-columns: 1fr 1fr;
-    padding: 1rem 1rem;
-    gap: 1rem;
-    margin-left: 10vw;
-    margin-right: 10vw;
+  }
 }
 
-#answers button{
-    color: white;
-    border: 1px white solid;
-    border-radius: 5px;
-    background-color: rgb(94, 94, 94);
-    margin: 4px 4px;
-    min-height: 6rem;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.2rem;
-    width: 100%;
-    height: 100%;
+#answers button {
+  color: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  background-color: rgb(94, 94, 94);
+  padding: 1rem;
+  min-height: 4.5rem;
+  font-size: 1rem;
+  width: 100%;
+  text-align: center;
+  word-break: break-word;
+  touch-action: manipulation;
 }
 
 #answers button:hover{
@@ -215,6 +228,7 @@ return {
 }
 
 .disabled {
+  z-index: 1;
   opacity: 0.6;
 }
 

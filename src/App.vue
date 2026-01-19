@@ -54,6 +54,9 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: relative;
+  z-index: 1000;
+
 }
 
 .home a {
@@ -63,11 +66,13 @@ header {
 /* Hamburger button */
 .hamburger {
   display: block;
+  position: relative;
   font-size: 28px;
   color: rgb(147, 255, 192);
   background: none;
   border: none;
   cursor: pointer;
+  z-index: 1100;
 }
 
 /* Desktop nav */
@@ -77,10 +82,6 @@ nav {
   font-weight: bold;
   font-size: 18px;
 }
-
-  .hamburger {
-    display: block;
-  }
 
   nav {
     position: fixed;
