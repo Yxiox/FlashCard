@@ -38,7 +38,7 @@ export default {
     onMounted(async () => {
       randomNumber.value = Math.floor(Math.random() * 23)
       try {
-        const response = await fetch(`/${props.Nome}.json`)
+        const response = await fetch(`/FlashCard/${props.Nome}.json`)
         jsonData.value = await response.json()
       } catch (error) {
         console.error('Failed to load JSON:', error)
