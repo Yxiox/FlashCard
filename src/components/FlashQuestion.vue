@@ -1,33 +1,86 @@
-<script >
-    import { onMounted } from 'vue';
-    import { ref } from 'vue'
+<script>
+import { onMounted, ref } from 'vue'
 
+export default {
+  props: {
+    Nome: { type: String, required: true }
+  },
+  setup(props) {
     const randomNumber = ref(0)
     const jsonData = ref([])
+    const selectedAnswer = ref(null)
+    const isAnswered = ref(false)
+    const isCorrect = ref(false)
 
-    export default{
-    props:{
-        Nome:{ type:String, required:true }
-    },
-    setup(props) {
+    const nextQuestion = () => {
+    let newIndex
+
+  do {
+    newIndex = Math.floor(Math.random() * jsonData.value.length)
+  } while (newIndex === randomNumber.value)
+
+  randomNumber.value = newIndex
+  selectedAnswer.value = null
+  isAnswered.value = false
+}
+
+    const answerClass = (key) => {
+  if (!isAnswered.value) return ''
+
+  const correct = jsonData.value[randomNumber.value].correct_answer
+
+  if (key === correct) return 'correct'
+  if (key === selectedAnswer.value) return 'wrong'
+
+  return 'disabled'
+}
+
     onMounted(async () => {
-      randomNumber.value = Math.floor(Math.random() * 23) 
+      randomNumber.value = Math.floor(Math.random() * 23)
       try {
-        const response = await fetch(`/${props.Nome}.json`); 
-        jsonData.value = await response.json();
-        console.log('Loaded JSON:', jsonData);
+        const response = await fetch(`/${props.Nome}.json`)
+        jsonData.value = await response.json()
       } catch (error) {
-        console.error('Failed to load JSON:', error);
+        console.error('Failed to load JSON:', error)
       }
-    });
+    })
 
-    return {
-      randomNumber,
-      jsonData
+    const selectAnswer = (answerKey) => {
+      if (isAnswered.value) return
+
+      selectedAnswer.value = answerKey
+      isAnswered.value = true
+
+      isCorrect.value =
+        answerKey === jsonData.value[randomNumber.value].correct_answer
+
+      if (isCorrect.value) {
+        launchConfetti()
+      }
     }
+
+    const launchConfetti = async () => {
+      const confetti = (await import('canvas-confetti')).default
+      confetti({
+        particleCount: 120,
+        spread: 70,
+        origin: { y: 0.6 }
+      })
+    }
+
+return {
+  randomNumber,
+  jsonData,
+  selectedAnswer,
+  isAnswered,
+  selectAnswer,
+  answerClass,
+  nextQuestion
+}
   }
 }
 </script>
+
 
 <template>
     <div id="main-content" v-if="jsonData.length > 0">
@@ -41,11 +94,40 @@
                </h3> 
             </div>
             <div id="answers">
-                <button>{{ jsonData[randomNumber].answer_a }}</button>
-                <button>{{ jsonData[randomNumber].answer_b }}</button>
-                <button>{{ jsonData[randomNumber].answer_c }}</button>
-                <button>{{ jsonData[randomNumber].answer_d }}</button>
-            </div>
+  <button
+    @click="selectAnswer('answer_a')"
+    :class="answerClass('answer_a')"
+  >
+    {{ jsonData[randomNumber].answer_a }}
+  </button>
+
+  <button
+    @click="selectAnswer('answer_b')"
+    :class="answerClass('answer_b')"
+  >
+    {{ jsonData[randomNumber].answer_b }}
+  </button>
+
+  <button
+    @click="selectAnswer('answer_c')"
+    :class="answerClass('answer_c')"
+  >
+    {{ jsonData[randomNumber].answer_c }}
+  </button>
+
+  <button
+    @click="selectAnswer('answer_d')"
+    :class="answerClass('answer_d')"
+  >
+    {{ jsonData[randomNumber].answer_d }}
+  </button>
+</div>
+<div v-if="isAnswered" id="next-question">
+  <button @click="nextQuestion">
+    Próxima pergunta
+  </button>
+</div>
+
         </div>
     </div>
 </template>
@@ -119,5 +201,43 @@
 #answers button:active{
     background-color: rgb(94, 94, 94);
 }
+
+.correct {
+  border: 2px solid #2ecc71 !important;
+  color: #2ecc71;
+  background-color: rgba(46, 204, 113, 0.15);
+}
+
+.wrong {
+  border: 2px solid #e74c3c !important;
+  color: #e74c3c;
+  background-color: rgba(231, 76, 60, 0.15);
+}
+
+.disabled {
+  opacity: 0.6;
+}
+
+#next-question {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+#next-question button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(147, 255, 192);
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#next-question button:hover {
+  background-color: rgb(120, 230, 170);
+}
+
 
 </style>
