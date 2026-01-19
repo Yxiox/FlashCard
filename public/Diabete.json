@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual é a principal característica fisiopatológica do diabetes mellitus tipo 1?",
+        "correct_answer": "answer_b",
+        "answer_a": "Resistência periférica à insulina",
+        "answer_b": "Deficiência absoluta de insulina",
+        "answer_c": "Produção excessiva de insulina",
+        "answer_d": "Aumento da secreção de glucagon isolado"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual sintoma clássico faz parte da tríade do diabetes mellitus?",
+        "correct_answer": "answer_c",
+        "answer_a": "Dispneia, tosse e febre",
+        "answer_b": "Cefaleia, tontura e síncope",
+        "answer_c": "Poliúria, polidipsia e polifagia",
+        "answer_d": "Dor abdominal, náuseas e vômitos"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual achado clínico sugere hiperglicemia persistente?",
+        "correct_answer": "answer_a",
+        "answer_a": "Perda ponderal inexplicada",
+        "answer_b": "Bradicardia",
+        "answer_c": "Edema agudo de pulmão",
+        "answer_d": "Cianose periférica"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual tipo de diabetes está mais associado à resistência insulínica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Diabetes tipo 1",
+        "answer_b": "Diabetes neonatal",
+        "answer_c": "Diabetes secundário a pancreatite",
+        "answer_d": "Diabetes tipo 2"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético refere visão turva. Qual mecanismo explica esse sintoma?",
+        "correct_answer": "answer_b",
+        "answer_a": "Lesão direta do nervo óptico",
+        "answer_b": "Alteração osmótica do cristalino pela hiperglicemia",
+        "answer_c": "Hipotensão arterial",
+        "answer_d": "Edema cerebral"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual achado cutâneo é frequentemente associado ao diabetes mellitus?",
+        "correct_answer": "answer_c",
+        "answer_a": "Eritema nodoso",
+        "answer_b": "Vitiligo universal",
+        "answer_c": "Acantose nigricans",
+        "answer_d": "Urticária crônica"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual complicação aguda é mais comum no diabetes mellitus tipo 1?",
+        "correct_answer": "answer_a",
+        "answer_a": "Cetoacidose diabética",
+        "answer_b": "Estado hiperosmolar",
+        "answer_c": "Hipertensão arterial",
+        "answer_d": "Insuficiência renal crônica"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual sintoma sugere hipoglicemia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Polidipsia",
+        "answer_b": "Poliúria",
+        "answer_c": "Prurido cutâneo",
+        "answer_d": "Sudorese fria e tremores"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético apresenta dor em queimação nos pés e perda da sensibilidade tátil. Qual complicação está presente?",
+        "correct_answer": "answer_b",
+        "answer_a": "Doença arterial periférica aguda",
+        "answer_b": "Neuropatia diabética",
+        "answer_c": "Miopatia inflamatória",
+        "answer_d": "Radiculopatia lombar"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual exame físico é fundamental na avaliação semiológica do paciente diabético?",
+        "correct_answer": "answer_c",
+        "answer_a": "Somente ausculta cardíaca",
+        "answer_b": "Avaliação neurológica central apenas",
+        "answer_c": "Inspeção e palpação dos pés",
+        "answer_d": "Exame ginecológico de rotina"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual complicação microvascular é mais associada ao diabetes mellitus?",
+        "correct_answer": "answer_a",
+        "answer_a": "Retinopatia diabética",
+        "answer_b": "Aneurisma de aorta",
+        "answer_c": "AVC hemorrágico",
+        "answer_d": "Insuficiência cardíaca sistólica"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético apresenta edema de membros inferiores e proteinúria. Qual complicação deve ser suspeitada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Insuficiência venosa crônica",
+        "answer_b": "Cirrose hepática",
+        "answer_c": "Síndrome nefrótica primária",
+        "answer_d": "Nefropatia diabética"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual achado clínico sugere doença macrovascular em paciente diabético?",
+        "correct_answer": "answer_b",
+        "answer_a": "Microalbuminúria",
+        "answer_b": "Claudicação intermitente",
+        "answer_c": "Retinopatia não proliferativa",
+        "answer_d": "Neuropatia sensitiva distal"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente com diabetes tipo 2 apresenta rebaixamento do nível de consciência, glicemia muito elevada e ausência de cetose. Qual diagnóstico é mais provável?",
+        "correct_answer": "answer_c",
+        "answer_a": "Cetoacidose diabética",
+        "answer_b": "Hipoglicemia grave",
+        "answer_c": "Estado hiperosmolar hiperglicêmico",
+        "answer_d": "AVC isquêmico"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual sinal clínico indica infecção em pé diabético?",
+        "correct_answer": "answer_a",
+        "answer_a": "Eritema, calor local e secreção purulenta",
+        "answer_b": "Palidez e frialdade isoladas",
+        "answer_c": "Dor à palpação apenas",
+        "answer_d": "Hipotermia local"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual fator contribui para o desenvolvimento do pé diabético?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertensão arterial isolada",
+        "answer_b": "Dislipidemia leve",
+        "answer_c": "Obesidade sem neuropatia",
+        "answer_d": "Neuropatia periférica associada à isquemia"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético apresenta náuseas, vômitos, respiração de Kussmaul e hálito cetônico. Qual alteração ácido-base é esperada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Alcalose respiratória",
+        "answer_b": "Acidose metabólica",
+        "answer_c": "Alcalose metabólica",
+        "answer_d": "Acidose respiratória"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual achado neurológico pode estar presente na hipoglicemia grave?",
+        "correct_answer": "answer_d",
+        "answer_a": "Rigidez de nuca",
+        "answer_b": "Hemiparesia permanente",
+        "answer_c": "Ataxia cerebelar crônica",
+        "answer_d": "Convulsões e alteração do nível de consciência"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual condição clínica aumenta significativamente o risco de complicações do diabetes?",
+        "correct_answer": "answer_c",
+        "answer_a": "Atividade física regular",
+        "answer_b": "Alimentação balanceada",
+        "answer_c": "Controle glicêmico inadequado",
+        "answer_d": "Uso regular de insulina"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético apresenta infecções cutâneas recorrentes. Esse achado está relacionado principalmente a:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hiperatividade do sistema imune",
+        "answer_b": "Disfunção imunológica associada à hiperglicemia",
+        "answer_c": "Deficiência de vitamina D",
+        "answer_d": "Uso de antibióticos prévios"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Na avaliação semiológica do paciente diabético, qual achado indica pior prognóstico cardiovascular?",
+        "correct_answer": "answer_a",
+        "answer_a": "Doença arterial periférica",
+        "answer_b": "Neuropatia autonômica leve",
+        "answer_c": "Retinopatia inicial",
+        "answer_d": "Microalbuminúria isolada"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual mecanismo fisiopatológico explica a neuropatia diabética?",
+        "correct_answer": "answer_d",
+        "answer_a": "Compressão mecânica dos nervos",
+        "answer_b": "Inflamação infecciosa direta",
+        "answer_c": "Deficiência vitamínica isolada",
+        "answer_d": "Lesão microvascular e toxicidade metabólica da hiperglicemia"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Paciente diabético apresenta hipotensão postural, gastroparesia e disfunção erétil. Qual complicação está presente?",
+        "correct_answer": "answer_c",
+        "answer_a": "Neuropatia sensitiva",
+        "answer_b": "Miopatia diabética",
+        "answer_c": "Neuropatia autonômica",
+        "answer_d": "Doença arterial periférica"
+    },
+    {
+        "subject": "Diabetes Mellitus",
+        "title": "Qual achado clínico diferencia diabetes mellitus mal controlado de diabetes compensado?",
+        "correct_answer": "answer_b",
+        "answer_a": "Idade do paciente",
+        "answer_b": "Presença de sintomas clássicos e complicações",
+        "answer_c": "História familiar",
+        "answer_d": "Tipo de tratamento utilizado"
+    }
+]

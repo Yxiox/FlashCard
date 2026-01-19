@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Anemia",
+        "title": "Anemia é definida, do ponto de vista clínico-laboratorial, como:",
+        "correct_answer": "answer_a",
+        "answer_a": "Redução da concentração de hemoglobina no sangue",
+        "answer_b": "Redução do número de leucócitos",
+        "answer_c": "Redução do volume plasmático",
+        "answer_d": "Aumento da viscosidade sanguínea"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual sintoma geral é mais comum em pacientes anêmicos?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre persistente",
+        "answer_b": "Fadiga aos esforços",
+        "answer_c": "Dor abdominal intensa",
+        "answer_d": "Tosse produtiva"
+    },
+    {
+        "subject": "Anemia",
+        "title": "A palidez cutaneomucosa ocorre na anemia devido a:",
+        "correct_answer": "answer_c",
+        "answer_a": "Vasodilatação periférica",
+        "answer_b": "Aumento do débito cardíaco",
+        "answer_c": "Redução da oxi-hemoglobina",
+        "answer_d": "Espessamento da pele"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual local é mais confiável para avaliação clínica de palidez?",
+        "correct_answer": "answer_d",
+        "answer_a": "Palmas das mãos",
+        "answer_b": "Dorso das mãos",
+        "answer_c": "Face",
+        "answer_d": "Conjuntivas palpebrais"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Dispneia em pacientes com anemia ocorre principalmente devido a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Hipóxia tecidual",
+        "answer_b": "Broncoespasmo",
+        "answer_c": "Acúmulo de CO2",
+        "answer_d": "Edema pulmonar"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Taquicardia na anemia é um mecanismo compensatório para:",
+        "correct_answer": "answer_b",
+        "answer_a": "Aumentar a pressão arterial",
+        "answer_b": "Manter a oferta de oxigênio aos tecidos",
+        "answer_c": "Reduzir a resistência vascular periférica",
+        "answer_d": "Evitar hipotermia"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual sintoma é mais comum em anemias de instalação aguda?",
+        "correct_answer": "answer_c",
+        "answer_a": "Queda de cabelo",
+        "answer_b": "Queilite angular",
+        "answer_c": "Tontura e síncope",
+        "answer_d": "Glossite atrófica"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Paciente com anemia ferropriva pode apresentar qual achado semiológico característico?",
+        "correct_answer": "answer_d",
+        "answer_a": "Icterícia",
+        "answer_b": "Cianose central",
+        "answer_c": "Linfadenomegalia generalizada",
+        "answer_d": "Coiloníquia"
+    },
+    {
+        "subject": "Anemia",
+        "title": "A glossite atrófica está mais associada a qual tipo de anemia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Anemia aplástica",
+        "answer_b": "Anemia megaloblástica",
+        "answer_c": "Anemia falciforme",
+        "answer_d": "Anemia hemolítica autoimune"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Icterícia em paciente anêmico sugere principalmente:",
+        "correct_answer": "answer_a",
+        "answer_a": "Anemia hemolítica",
+        "answer_b": "Anemia ferropriva",
+        "answer_c": "Anemia por doença crônica",
+        "answer_d": "Anemia aplástica"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Esplenomegalia em paciente com anemia indica, mais frequentemente:",
+        "correct_answer": "answer_c",
+        "answer_a": "Déficit nutricional",
+        "answer_b": "Perda sanguínea crônica",
+        "answer_c": "Hemólise aumentada",
+        "answer_d": "Hipoproliferação medular"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual sintoma neurológico pode ocorrer na deficiência de vitamina B12?",
+        "correct_answer": "answer_d",
+        "answer_a": "Cefaleia tensional",
+        "answer_b": "Convulsões",
+        "answer_c": "Diplopia",
+        "answer_d": "Parestesias em extremidades"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Paciente com anemia crônica tende a apresentar:",
+        "correct_answer": "answer_b",
+        "answer_a": "Sintomas intensos de início súbito",
+        "answer_b": "Adaptação clínica progressiva",
+        "answer_c": "Hipotensão grave",
+        "answer_d": "Cianose central"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual achado cardiovascular pode estar presente em anemias graves?",
+        "correct_answer": "answer_c",
+        "answer_a": "Bradicardia",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Sopro sistólico funcional",
+        "answer_d": "Bulhas hipofonéticas"
+    },
+    {
+        "subject": "Anemia",
+        "title": "A presença de sopro sistólico em paciente anêmico ocorre devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Lesão valvar estrutural",
+        "answer_b": "Aumento da pressão diastólica",
+        "answer_c": "Hipertrofia ventricular",
+        "answer_d": "Aumento do fluxo sanguíneo"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual achado sugere anemia ferropriva de longa data?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre persistente",
+        "answer_b": "Pica alimentar",
+        "answer_c": "Hepatomegalia",
+        "answer_d": "Linfocitose"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Anemia associada a doença crônica geralmente apresenta qual característica clínica?",
+        "correct_answer": "answer_c",
+        "answer_a": "Instalação súbita",
+        "answer_b": "Sintomas neurológicos",
+        "answer_c": "Quadro leve a moderado",
+        "answer_d": "Icterícia intensa"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Paciente com anemia falciforme pode apresentar como achado semiológico:",
+        "correct_answer": "answer_a",
+        "answer_a": "Úlceras maleolares",
+        "answer_b": "Coiloníquia",
+        "answer_c": "Glossite atrófica",
+        "answer_d": "Petéquias"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Crises dolorosas recorrentes em paciente anêmico sugerem:",
+        "correct_answer": "answer_b",
+        "answer_a": "Anemia ferropriva",
+        "answer_b": "Anemia falciforme",
+        "answer_c": "Anemia aplástica",
+        "answer_d": "Anemia por deficiência de folato"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual sinal indica anemia grave em avaliação clínica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Palidez discreta",
+        "answer_b": "Cefaleia leve",
+        "answer_c": "Cansaço aos grandes esforços",
+        "answer_d": "Dispneia em repouso"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Hipotensão postural em paciente com anemia sugere:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertensão mascarada",
+        "answer_b": "Disfunção autonômica",
+        "answer_c": "Hipovolemia associada",
+        "answer_d": "Aumento do débito cardíaco"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Na semiologia, qual achado aponta para anemia hemolítica crônica?",
+        "correct_answer": "answer_a",
+        "answer_a": "Esplenomegalia",
+        "answer_b": "Coiloníquia",
+        "answer_c": "Queilite angular",
+        "answer_d": "Parestesia distal"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Em pacientes idosos, a anemia pode se manifestar principalmente como:",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre alta",
+        "answer_b": "Declínio funcional e confusão",
+        "answer_c": "Dor abdominal",
+        "answer_d": "Tosse crônica"
+    },
+    {
+        "subject": "Anemia",
+        "title": "Qual achado clínico tem maior valor prognóstico na anemia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Tipo de palidez",
+        "answer_b": "Presença de sopro",
+        "answer_c": "Aspecto das unhas",
+        "answer_d": "Repercussão hemodinâmica"
+    }
+]

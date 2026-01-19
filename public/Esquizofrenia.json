@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Esquizofrenia",
+        "title": "A esquizofrenia é classificada principalmente como:",
+        "correct_answer": "answer_a",
+        "answer_a": "Transtorno psicótico crônico",
+        "answer_b": "Transtorno de humor bipolar",
+        "answer_c": "Transtorno de ansiedade",
+        "answer_d": "Transtorno neurocognitivo maior"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual é a idade típica de início da esquizofrenia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Infância precoce",
+        "answer_b": "Final da adolescência e início da vida adulta",
+        "answer_c": "Após os 60 anos",
+        "answer_d": "Exclusivamente na meia-idade"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual sintoma é considerado positivo na esquizofrenia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Alogia",
+        "answer_b": "Avolição",
+        "answer_c": "Delírios",
+        "answer_d": "Anedonia"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Alucinações mais frequentemente associadas à esquizofrenia são:",
+        "correct_answer": "answer_d",
+        "answer_a": "Visuais",
+        "answer_b": "Olfatórias",
+        "answer_c": "Táteis",
+        "answer_d": "Auditivas"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual é um exemplo de sintoma negativo da esquizofrenia?",
+        "correct_answer": "answer_a",
+        "answer_a": "Embotamento afetivo",
+        "answer_b": "Delírio persecutório",
+        "answer_c": "Alucinação auditiva",
+        "answer_d": "Desorganização do pensamento"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Pensamento desorganizado pode ser identificado clinicamente por:",
+        "correct_answer": "answer_b",
+        "answer_a": "Discurso excessivamente lento",
+        "answer_b": "Fuga de ideias e descarrilamento",
+        "answer_c": "Mutismo total",
+        "answer_d": "Discurso coerente e objetivo"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Delírios persecutórios caracterizam-se por:",
+        "correct_answer": "answer_c",
+        "answer_a": "Crença de possuir poderes especiais",
+        "answer_b": "Crença de estar morto",
+        "answer_c": "Crença de estar sendo perseguido ou ameaçado",
+        "answer_d": "Crença de culpa excessiva"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual alteração do afeto é comum na esquizofrenia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Labilidade afetiva intensa",
+        "answer_b": "Afeto expansivo",
+        "answer_c": "Afeto ansioso",
+        "answer_d": "Afeto inadequado ou embotado"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Avolição refere-se a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Redução da iniciativa e motivação",
+        "answer_b": "Redução da fala",
+        "answer_c": "Redução da expressão emocional",
+        "answer_d": "Redução da atenção"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Alogia é definida como:",
+        "correct_answer": "answer_b",
+        "answer_a": "Empobrecimento do afeto",
+        "answer_b": "Empobrecimento do discurso",
+        "answer_c": "Ausência de movimentos",
+        "answer_d": "Aumento da fala"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual achado comportamental pode estar presente na esquizofrenia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hiperatividade constante",
+        "answer_b": "Comportamento teatral",
+        "answer_c": "Comportamento bizarro",
+        "answer_d": "Agitação psicomotora episódica"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual sintoma sugere comprometimento cognitivo na esquizofrenia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Delírios grandiosos",
+        "answer_b": "Alucinações auditivas",
+        "answer_c": "Afeto embotado",
+        "answer_d": "Déficit de atenção e memória"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual é a duração mínima dos sintomas para diagnóstico de esquizofrenia?",
+        "correct_answer": "answer_b",
+        "answer_a": "1 mês",
+        "answer_b": "6 meses",
+        "answer_c": "1 ano",
+        "answer_d": "2 anos"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual achado diferencia esquizofrenia de transtorno delirante?",
+        "correct_answer": "answer_c",
+        "answer_a": "Presença de delírios",
+        "answer_b": "Crônica evolução",
+        "answer_c": "Presença de sintomas negativos e desorganização",
+        "answer_d": "Início na vida adulta"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Paciente com esquizofrenia pode apresentar prejuízo principalmente em:",
+        "correct_answer": "answer_a",
+        "answer_a": "Funcionamento social e ocupacional",
+        "answer_b": "Memória autobiográfica",
+        "answer_c": "Orientação temporoespacial",
+        "answer_d": "Linguagem receptiva"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual achado sugere esquizofrenia em fase aguda?",
+        "correct_answer": "answer_d",
+        "answer_a": "Isolamento social progressivo",
+        "answer_b": "Empobrecimento afetivo",
+        "answer_c": "Avolição persistente",
+        "answer_d": "Delírios e alucinações intensos"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "O juízo crítico na esquizofrenia geralmente encontra-se:",
+        "correct_answer": "answer_b",
+        "answer_a": "Preservado",
+        "answer_b": "Prejudicado",
+        "answer_c": "Flutuante, porém intacto",
+        "answer_d": "Aumentado"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Insight do paciente esquizofrênico costuma estar:",
+        "correct_answer": "answer_c",
+        "answer_a": "Totalmente preservado",
+        "answer_b": "Parcialmente preservado apenas na fase aguda",
+        "answer_c": "Reduzido ou ausente",
+        "answer_d": "Excessivamente crítico"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual achado indica maior gravidade clínica?",
+        "correct_answer": "answer_a",
+        "answer_a": "Sintomas negativos proeminentes",
+        "answer_b": "Delírios isolados",
+        "answer_c": "Alucinações ocasionais",
+        "answer_d": "Ansiedade leve associada"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual comportamento aumenta risco de auto ou heteroagressão?",
+        "correct_answer": "answer_d",
+        "answer_a": "Avolição",
+        "answer_b": "Alogia",
+        "answer_c": "Embotamento afetivo",
+        "answer_d": "Delírios persecutórios"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Na semiologia psiquiátrica, a catatonia pode se manifestar como:",
+        "correct_answer": "answer_b",
+        "answer_a": "Discurso acelerado",
+        "answer_b": "Imobilidade e negativismo",
+        "answer_c": "Agitação contínua",
+        "answer_d": "Hipermimia"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Qual achado sugere mau prognóstico na esquizofrenia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Início agudo",
+        "answer_b": "Boa resposta inicial ao tratamento",
+        "answer_c": "Sintomas negativos predominantes",
+        "answer_d": "Curta duração dos sintomas"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Paciente com esquizofrenia apresenta maior risco de:",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertensão arterial",
+        "answer_b": "Doença renal crônica",
+        "answer_c": "Asma brônquica",
+        "answer_d": "Suicídio"
+    },
+    {
+        "subject": "Esquizofrenia",
+        "title": "Na avaliação clínica, qual aspecto tem maior impacto funcional?",
+        "correct_answer": "answer_a",
+        "answer_a": "Comprometimento social e ocupacional",
+        "answer_b": "Tipo de delírio",
+        "answer_c": "Frequência das alucinações",
+        "answer_d": "Conteúdo do pensamento"
+    }
+]

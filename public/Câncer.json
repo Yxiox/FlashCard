@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Câncer",
+        "title": "O que define o câncer do ponto de vista fisiopatológico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Crescimento celular lento e autolimitado",
+        "answer_b": "Proliferação celular descontrolada com potencial de invasão",
+        "answer_c": "Resposta inflamatória crônica",
+        "answer_d": "Hiperplasia celular reversível"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual sinal geral é frequentemente observado em pacientes com câncer avançado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Ganho de peso",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Perda ponderal inexplicada",
+        "answer_d": "Hiperglicemia isolada"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado semiológico é sugestivo de neoplasia maligna?",
+        "correct_answer": "answer_a",
+        "answer_a": "Massa endurecida, fixa e indolor",
+        "answer_b": "Nódulo doloroso e móvel",
+        "answer_c": "Lesão flutuante e quente",
+        "answer_d": "Edema inflamatório agudo"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual sintoma constitucional está classicamente associado ao câncer?",
+        "correct_answer": "answer_d",
+        "answer_a": "Febre alta súbita",
+        "answer_b": "Bradicardia",
+        "answer_c": "Hipotermia",
+        "answer_d": "Astenia"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual alteração linfonodal sugere malignidade?",
+        "correct_answer": "answer_b",
+        "answer_a": "Linfonodo pequeno e doloroso",
+        "answer_b": "Linfonodo endurecido e aderido aos planos profundos",
+        "answer_c": "Linfonodo elástico e móvel",
+        "answer_d": "Linfonodo de crescimento rápido e regressão espontânea"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual mecanismo explica a caquexia associada ao câncer?",
+        "correct_answer": "answer_c",
+        "answer_a": "Baixa ingestão calórica isolada",
+        "answer_b": "Hipotireoidismo secundário",
+        "answer_c": "Resposta inflamatória sistêmica e catabolismo aumentado",
+        "answer_d": "Insuficiência adrenal"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado cutâneo pode indicar neoplasia interna?",
+        "correct_answer": "answer_d",
+        "answer_a": "Urticária aguda",
+        "answer_b": "Erisipela",
+        "answer_c": "Vitiligo",
+        "answer_d": "Acantose nigricans de início súbito"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Paciente apresenta dor óssea persistente, noturna e progressiva. Qual hipótese deve ser considerada?",
+        "correct_answer": "answer_a",
+        "answer_a": "Metástase óssea",
+        "answer_b": "Artrose",
+        "answer_c": "Distensão muscular",
+        "answer_d": "Fibromialgia"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual sintoma respiratório é sinal de alerta para câncer de pulmão?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tosse seca ocasional",
+        "answer_b": "Hemoptise",
+        "answer_c": "Espirros frequentes",
+        "answer_d": "Congestão nasal"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual manifestação gastrointestinal sugere câncer colorretal?",
+        "correct_answer": "answer_c",
+        "answer_a": "Diarreia aguda autolimitada",
+        "answer_b": "Dispepsia funcional",
+        "answer_c": "Alteração recente do hábito intestinal",
+        "answer_d": "Dor abdominal difusa pós-prandial"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado semiológico sugere câncer de mama?",
+        "correct_answer": "answer_d",
+        "answer_a": "Dor mamária cíclica",
+        "answer_b": "Nódulo móvel e doloroso",
+        "answer_c": "Secreção láctea bilateral",
+        "answer_d": "Retração cutânea ou do mamilo"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual síndrome paraneoplásica é associada a câncer de pulmão de pequenas células?",
+        "correct_answer": "answer_b",
+        "answer_a": "Síndrome nefrótica",
+        "answer_b": "Síndrome da secreção inapropriada de ADH (SIADH)",
+        "answer_c": "Hipotireoidismo",
+        "answer_d": "Hiperparatireoidismo primário"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Paciente com câncer apresenta hipercalcemia. Qual mecanismo é mais comum?",
+        "correct_answer": "answer_c",
+        "answer_a": "Aumento da ingestão de cálcio",
+        "answer_b": "Insuficiência renal primária",
+        "answer_c": "Produção de PTH-rP ou lise óssea",
+        "answer_d": "Deficiência de vitamina D"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado neurológico pode indicar metástase cerebral?",
+        "correct_answer": "answer_d",
+        "answer_a": "Cefaleia tensional isolada",
+        "answer_b": "Vertigem periférica",
+        "answer_c": "Sonolência após esforço",
+        "answer_d": "Déficit neurológico focal de início recente"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual exame físico é essencial na avaliação inicial do paciente oncológico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Somente ausculta cardíaca",
+        "answer_b": "Exame físico completo com avaliação de linfonodos",
+        "answer_c": "Apenas exame abdominal",
+        "answer_d": "Exame neurológico apenas se houver sintomas"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado sugere câncer avançado com disseminação sistêmica?",
+        "correct_answer": "answer_c",
+        "answer_a": "Dor localizada leve",
+        "answer_b": "Febre isolada",
+        "answer_c": "Múltiplas metástases em órgãos distintos",
+        "answer_d": "Nódulo único pequeno"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Paciente com câncer apresenta anemia. Qual mecanismo é mais frequente?",
+        "correct_answer": "answer_a",
+        "answer_a": "Anemia da doença crônica",
+        "answer_b": "Deficiência isolada de vitamina B12",
+        "answer_c": "Hemorragia aguda maciça",
+        "answer_d": "Hemólise autoimune primária"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual fator aumenta significativamente o risco de câncer em geral?",
+        "correct_answer": "answer_d",
+        "answer_a": "Atividade física regular",
+        "answer_b": "Alimentação balanceada",
+        "answer_c": "Vacinação adequada",
+        "answer_d": "Tabagismo"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual sinal clínico sugere compressão medular por tumor?",
+        "correct_answer": "answer_b",
+        "answer_a": "Dor lombar mecânica",
+        "answer_b": "Dor dorsal associada a déficit motor progressivo",
+        "answer_c": "Cefaleia episódica",
+        "answer_d": "Dor cervical pós-esforço"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado diferencia tumor benigno de maligno?",
+        "correct_answer": "answer_c",
+        "answer_a": "Presença de cápsula definida",
+        "answer_b": "Crescimento lento",
+        "answer_c": "Invasão de tecidos adjacentes",
+        "answer_d": "Dor à palpação"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Paciente com câncer apresenta dispneia súbita e dor torácica. Qual complicação deve ser considerada?",
+        "correct_answer": "answer_a",
+        "answer_a": "Tromboembolismo pulmonar",
+        "answer_b": "Asma",
+        "answer_c": "Infecção viral",
+        "answer_d": "Derrame pleural simples"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual achado clínico sugere pior prognóstico oncológico?",
+        "correct_answer": "answer_d",
+        "answer_a": "Tumor localizado",
+        "answer_b": "Boa resposta inicial ao tratamento",
+        "answer_c": "Ausência de sintomas sistêmicos",
+        "answer_d": "Caquexia associada a metástases"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Qual conceito define o estadiamento TNM?",
+        "correct_answer": "answer_b",
+        "answer_a": "Resposta ao tratamento",
+        "answer_b": "Extensão do tumor primário, linfonodos e metástases",
+        "answer_c": "Tipo histológico e grau celular",
+        "answer_d": "Perfil genético tumoral"
+    },
+    {
+        "subject": "Câncer",
+        "title": "Na semiologia oncológica, qual achado exige investigação imediata?",
+        "correct_answer": "answer_c",
+        "answer_a": "Dor musculoesquelética leve",
+        "answer_b": "Febre autolimitada",
+        "answer_c": "Perda de peso inexplicada associada a massa palpável",
+        "answer_d": "Fadiga após esforço"
+    }
+]

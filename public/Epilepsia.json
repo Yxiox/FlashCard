@@ -1,0 +1,209 @@
+[
+    {
+        "subject": "Epilepsia",
+        "title": "O que define epilepsia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Crise convulsiva única provocada",
+        "answer_b": "Predisposição crônica para crises epilépticas recorrentes",
+        "answer_c": "Alteração aguda e reversível da consciência",
+        "answer_d": "Distúrbio metabólico transitório"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual é a principal manifestação clínica das crises epilépticas?",
+        "correct_answer": "answer_a",
+        "answer_a": "Descargas neuronais excessivas e sincronizadas",
+        "answer_b": "Isquemia cerebral transitória",
+        "answer_c": "Hipoglicemia prolongada",
+        "answer_d": "Inflamação meníngea"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado na anamnese sugere crise epiléptica em vez de síncope?",
+        "correct_answer": "answer_c",
+        "answer_a": "Palidez e sudorese prévias",
+        "answer_b": "Recuperação imediata sem confusão",
+        "answer_c": "Confusão pós-ictal prolongada",
+        "answer_d": "Desencadeamento por ortostatismo"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual característica é típica da crise tônico-clônica generalizada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Preservação da consciência",
+        "answer_b": "Movimentos rítmicos focais",
+        "answer_c": "Ausência de fase pós-ictal",
+        "answer_d": "Perda súbita da consciência seguida de rigidez e abalos"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual tipo de crise cursa com olhar fixo e interrupção breve da atividade?",
+        "correct_answer": "answer_b",
+        "answer_a": "Crise tônico-clônica",
+        "answer_b": "Crise de ausência",
+        "answer_c": "Crise mioclônica",
+        "answer_d": "Crise focal com automatismos"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado é típico da crise focal com comprometimento da consciência?",
+        "correct_answer": "answer_c",
+        "answer_a": "Queda súbita sem movimentos",
+        "answer_b": "Perda imediata do tônus",
+        "answer_c": "Automatismos orais ou manuais",
+        "answer_d": "Ausência de fase pós-ictal"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual manifestação sugere origem temporal da crise epiléptica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Déficit motor súbito",
+        "answer_b": "Desvio cefálico forçado",
+        "answer_c": "Marcha automática",
+        "answer_d": "Sensação epigástrica ascendente"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado pós-ictal é comum após crises generalizadas?",
+        "correct_answer": "answer_a",
+        "answer_a": "Sonolência e cefaleia",
+        "answer_b": "Recuperação imediata",
+        "answer_c": "Agitação psicomotora contínua",
+        "answer_d": "Ausência de déficit cognitivo"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual exame é mais útil para apoiar o diagnóstico de epilepsia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tomografia de crânio simples",
+        "answer_b": "Eletroencefalograma",
+        "answer_c": "Punção lombar",
+        "answer_d": "Angiografia cerebral"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado no EEG é clássico na epilepsia de ausência?",
+        "correct_answer": "answer_c",
+        "answer_a": "Ondas lentas focais",
+        "answer_b": "Atividade beta difusa",
+        "answer_c": "Complexos ponta-onda a 3 Hz",
+        "answer_d": "Supressão elétrica global"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual condição deve ser excluída antes de diagnosticar epilepsia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Enxaqueca",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Doença de Parkinson",
+        "answer_d": "Crises agudas provocadas (metabólicas ou tóxicas)"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual fator aumenta o risco de recorrência após uma primeira crise não provocada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Crise durante o sono",
+        "answer_b": "EEG com descargas epileptiformes",
+        "answer_c": "Febre associada",
+        "answer_d": "Idade jovem"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual característica define estado de mal epiléptico?",
+        "correct_answer": "answer_a",
+        "answer_a": "Crise prolongada ou crises sucessivas sem recuperação da consciência",
+        "answer_b": "Crise única autolimitada",
+        "answer_c": "Crise focal isolada",
+        "answer_d": "Crise de ausência repetida"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual é a principal causa de mortalidade associada ao estado de mal epiléptico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipoglicemia",
+        "answer_b": "Edema cerebral leve",
+        "answer_c": "Complicações sistêmicas e hipóxia",
+        "answer_d": "Arritmia benigna"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual medicação é considerada primeira linha para crises focais?",
+        "correct_answer": "answer_d",
+        "answer_a": "Etossuximida",
+        "answer_b": "Fenobarbital isolado",
+        "answer_c": "Ácido valproico apenas",
+        "answer_d": "Carbamazepina ou levetiracetam"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual fármaco é indicado principalmente para epilepsia de ausência?",
+        "correct_answer": "answer_b",
+        "answer_a": "Carbamazepina",
+        "answer_b": "Etossuximida",
+        "answer_c": "Fenitoína",
+        "answer_d": "Topiramato"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado sugere epilepsia refratária?",
+        "correct_answer": "answer_c",
+        "answer_a": "Crise única anual",
+        "answer_b": "Boa resposta inicial ao tratamento",
+        "answer_c": "Persistência de crises apesar de dois fármacos adequados",
+        "answer_d": "EEG normal"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual manifestação autonômica pode ocorrer durante uma crise epiléptica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipotensão sustentada",
+        "answer_b": "Bradicardia persistente",
+        "answer_c": "Hipoglicemia",
+        "answer_d": "Taquicardia e sudorese"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual característica ajuda a diferenciar epilepsia de crises psicogênicas não epilépticas?",
+        "correct_answer": "answer_a",
+        "answer_a": "Mordedura lateral de língua",
+        "answer_b": "Movimentos amplos e irregulares",
+        "answer_c": "Olhos fortemente fechados",
+        "answer_d": "Duração prolongada variável"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual achado sugere foco frontal de epilepsia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Aura epigástrica",
+        "answer_b": "Crises breves com movimentos bizarros e noturnos",
+        "answer_c": "Alterações olfatórias",
+        "answer_d": "Automatismos orais"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual complicação grave está associada à epilepsia?",
+        "correct_answer": "answer_c",
+        "answer_a": "AVC hemorrágico",
+        "answer_b": "Infarto do miocárdio",
+        "answer_c": "Morte súbita inesperada na epilepsia (SUDEP)",
+        "answer_d": "Hidrocefalia"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual orientação é correta para pacientes com epilepsia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Suspender medicação após 6 meses sem crises",
+        "answer_b": "Evitar qualquer atividade física",
+        "answer_c": "Dormir menos para evitar crises",
+        "answer_d": "Manter adesão rigorosa ao tratamento"
+    },
+    {
+        "subject": "Epilepsia",
+        "title": "Qual característica do curso clínico da epilepsia é correta?",
+        "correct_answer": "answer_b",
+        "answer_a": "Sempre progressiva",
+        "answer_b": "Pode ser controlada com tratamento adequado",
+        "answer_c": "Sempre associada a déficit cognitivo",
+        "answer_d": "Limitada à infância"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Asma",
+        "title": "O que define a asma do ponto de vista fisiopatológico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Doença infecciosa pulmonar crônica",
+        "answer_b": "Inflamação crônica das vias aéreas com obstrução variável e reversível",
+        "answer_c": "Fibrose pulmonar progressiva",
+        "answer_d": "Doença restritiva de origem neuromuscular"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual sintoma é mais característico da asma?",
+        "correct_answer": "answer_c",
+        "answer_a": "Tosse produtiva contínua",
+        "answer_b": "Dor torácica pleurítica",
+        "answer_c": "Dispneia episódica com sibilância",
+        "answer_d": "Hemoptise"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado auscultatório é típico durante crise asmática?",
+        "correct_answer": "answer_a",
+        "answer_a": "Sibilos expiratórios difusos",
+        "answer_b": "Estertores crepitantes em bases",
+        "answer_c": "Roncos localizados persistentes",
+        "answer_d": "Abolição súbita do murmúrio vesicular sem dispneia"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual fator desencadeante é frequentemente associado à asma?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertensão arterial",
+        "answer_b": "Hipotireoidismo",
+        "answer_c": "Insuficiência renal",
+        "answer_d": "Exposição a alérgenos"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado na história clínica sugere asma em vez de DPOC?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tabagismo intenso",
+        "answer_b": "Início dos sintomas na infância",
+        "answer_c": "Sintomas respiratórios contínuos",
+        "answer_d": "Tosse produtiva diária"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual exame confirma o diagnóstico de asma?",
+        "correct_answer": "answer_c",
+        "answer_a": "Radiografia de tórax",
+        "answer_b": "Gasometria arterial",
+        "answer_c": "Espirometria com reversibilidade",
+        "answer_d": "Tomografia de tórax"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual critério indica resposta broncodilatadora significativa?",
+        "correct_answer": "answer_a",
+        "answer_a": "Aumento do VEF1 ≥ 12% e ≥ 200 mL",
+        "answer_b": "Aumento da CVF ≥ 5%",
+        "answer_c": "Redução do VEF1 após broncodilatador",
+        "answer_d": "Normalização da saturação isolada"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado gasométrico pode ocorrer em crise asmática grave?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipercapnia precoce",
+        "answer_b": "pH alcalino persistente",
+        "answer_c": "Hipoxemia sem alterações ventilatórias",
+        "answer_d": "Elevação de CO₂ indicando fadiga respiratória"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual sinal clínico indica gravidade na crise asmática?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tosse seca leve",
+        "answer_b": "Uso de musculatura acessória",
+        "answer_c": "Sibilos isolados",
+        "answer_d": "Dispneia apenas aos esforços"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado auscultatório pode indicar iminência de insuficiência respiratória?",
+        "correct_answer": "answer_c",
+        "answer_a": "Sibilos difusos",
+        "answer_b": "Roncos localizados",
+        "answer_c": "Silêncio auscultatório",
+        "answer_d": "Estertores finos"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual é o tratamento de escolha para alívio rápido da crise asmática?",
+        "correct_answer": "answer_d",
+        "answer_a": "Corticosteroide inalatório",
+        "answer_b": "Antileucotrieno",
+        "answer_c": "Anticolinérgico de longa duração",
+        "answer_d": "Beta-2 agonista de curta duração"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual medicação é base do tratamento controlador da asma persistente?",
+        "correct_answer": "answer_b",
+        "answer_a": "Beta-2 agonista isolado",
+        "answer_b": "Corticosteroide inalatório",
+        "answer_c": "Antibiótico inalatório",
+        "answer_d": "Mucolítico"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual fator indica maior risco de exacerbações futuras?",
+        "correct_answer": "answer_c",
+        "answer_a": "Boa adesão ao tratamento",
+        "answer_b": "VEF1 normal",
+        "answer_c": "História de internação por asma",
+        "answer_d": "Ausência de sintomas noturnos"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado sugere asma não controlada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Sintomas esporádicos mensais",
+        "answer_b": "Uso raro de broncodilatador",
+        "answer_c": "Função pulmonar normal",
+        "answer_d": "Sintomas noturnos frequentes"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual comorbidade frequentemente associada à asma?",
+        "correct_answer": "answer_b",
+        "answer_a": "Insuficiência renal crônica",
+        "answer_b": "Rinite alérgica",
+        "answer_c": "Doença hepática",
+        "answer_d": "Hipotireoidismo"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado ajuda a diferenciar asma de insuficiência cardíaca?",
+        "correct_answer": "answer_a",
+        "answer_a": "Reversibilidade da obstrução ao broncodilatador",
+        "answer_b": "Presença de dispneia",
+        "answer_c": "Tosse noturna",
+        "answer_d": "Estertores pulmonares"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual característica sugere asma ocupacional?",
+        "correct_answer": "answer_c",
+        "answer_a": "Sintomas contínuos",
+        "answer_b": "Início na infância",
+        "answer_c": "Piora dos sintomas no ambiente de trabalho",
+        "answer_d": "Ausência de fatores desencadeantes"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual alteração é comum no hemograma de pacientes asmáticos alérgicos?",
+        "correct_answer": "answer_d",
+        "answer_a": "Neutrofilia",
+        "answer_b": "Linfopenia",
+        "answer_c": "Plaquetopenia",
+        "answer_d": "Eosinofilia"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado sugere asma induzida por exercício?",
+        "correct_answer": "answer_b",
+        "answer_a": "Dispneia em repouso",
+        "answer_b": "Broncoespasmo após atividade física",
+        "answer_c": "Dor torácica pleurítica",
+        "answer_d": "Tosse produtiva persistente"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual complicação grave pode ocorrer durante crise asmática?",
+        "correct_answer": "answer_c",
+        "answer_a": "Derrame pleural",
+        "answer_b": "Edema pulmonar cardiogênico",
+        "answer_c": "Insuficiência respiratória aguda",
+        "answer_d": "Hemoptise maciça"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual parâmetro é usado para classificar gravidade da asma?",
+        "correct_answer": "answer_b",
+        "answer_a": "Radiografia de tórax",
+        "answer_b": "Frequência de sintomas e função pulmonar",
+        "answer_c": "Gasometria isolada",
+        "answer_d": "Tomografia de alta resolução"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual orientação é fundamental para o controle da asma?",
+        "correct_answer": "answer_d",
+        "answer_a": "Suspender tratamento quando assintomático",
+        "answer_b": "Usar apenas broncodilatador",
+        "answer_c": "Evitar qualquer atividade física",
+        "answer_d": "Educação do paciente e adesão ao tratamento"
+    },
+    {
+        "subject": "Asma",
+        "title": "Qual achado sugere crise asmática potencialmente fatal?",
+        "correct_answer": "answer_a",
+        "answer_a": "Silêncio auscultatório e rebaixamento do nível de consciência",
+        "answer_b": "Sibilância leve",
+        "answer_c": "Dispneia aos esforços",
+        "answer_d": "Tosse seca isolada"
+    },
+    {
+        "subject": "Asma",
+        "title": "O curso clínico da asma é tipicamente:",
+        "correct_answer": "answer_c",
+        "answer_a": "Progressivo e irreversível",
+        "answer_b": "Agudo e autolimitado",
+        "answer_c": "Crônico com exacerbações intermitentes",
+        "answer_d": "Restrito à infância"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "As doenças endócrinas são caracterizadas principalmente por:",
+        "correct_answer": "answer_a",
+        "answer_a": "Alterações na produção ou ação hormonal",
+        "answer_b": "Infecções crônicas do sistema nervoso",
+        "answer_c": "Doenças degenerativas musculares",
+        "answer_d": "Alterações estruturais ósseas"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Qual sintoma geral é comum em diversas endocrinopatias?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tosse crônica",
+        "answer_b": "Alteração de peso",
+        "answer_c": "Hemoptise",
+        "answer_d": "Dor pleurítica"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Intolerância ao calor sugere principalmente:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Insuficiência adrenal",
+        "answer_c": "Hipertireoidismo",
+        "answer_d": "Hipoparatireoidismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Intolerância ao frio está mais associada a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipertireoidismo",
+        "answer_c": "Feocromocitoma",
+        "answer_d": "Síndrome de Cushing"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Qual achado cutâneo é típico do hipotireoidismo?",
+        "correct_answer": "answer_d",
+        "answer_a": "Pele quente e úmida",
+        "answer_b": "Hiperpigmentação difusa",
+        "answer_c": "Estrias violáceas",
+        "answer_d": "Pele seca e fria"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Pele quente, úmida e sudoreica sugere:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipopituitarismo",
+        "answer_b": "Hipertireoidismo",
+        "answer_c": "Diabetes insipidus",
+        "answer_d": "Hipoparatireoidismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Taquicardia persistente em repouso é um achado frequente em:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Insuficiência adrenal",
+        "answer_c": "Hipertireoidismo",
+        "answer_d": "Hipopituitarismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Ganho de peso com obesidade central sugere:",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertireoidismo",
+        "answer_b": "Hipoparatireoidismo",
+        "answer_c": "Doença de Addison",
+        "answer_d": "Síndrome de Cushing"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Estrias violáceas largas são típicas de:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Síndrome de Cushing",
+        "answer_c": "Acromegalia",
+        "answer_d": "Hipopituitarismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Hiperpigmentação cutânea difusa sugere:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertireoidismo",
+        "answer_b": "Hipoparatireoidismo",
+        "answer_c": "Insuficiência adrenal primária",
+        "answer_d": "Hipopituitarismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Hipotensão postural associada a astenia sugere:",
+        "correct_answer": "answer_a",
+        "answer_a": "Doença de Addison",
+        "answer_b": "Síndrome de Cushing",
+        "answer_c": "Hipertireoidismo",
+        "answer_d": "Acromegalia"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Face em lua cheia é um achado típico de:",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipertireoidismo",
+        "answer_c": "Hipopituitarismo",
+        "answer_d": "Síndrome de Cushing"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Mãos grandes, espessas e aumento do tamanho dos pés sugerem:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Acromegalia",
+        "answer_c": "Síndrome de Cushing",
+        "answer_d": "Hipopituitarismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Prognatismo e macroglossia são achados característicos de:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertireoidismo",
+        "answer_b": "Hipotireoidismo",
+        "answer_c": "Acromegalia",
+        "answer_d": "Diabetes insipidus"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Poliúria e polidipsia podem ser encontradas em:",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipoparatireoidismo",
+        "answer_c": "Síndrome de Cushing",
+        "answer_d": "Diabetes mellitus"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Tremor fino de extremidades é um achado comum em:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipertireoidismo",
+        "answer_c": "Hipopituitarismo",
+        "answer_d": "Insuficiência adrenal"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Hipocalcemia pode se manifestar clinicamente como:",
+        "correct_answer": "answer_a",
+        "answer_a": "Espasmos musculares e parestesias",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Obesidade central",
+        "answer_d": "Taquicardia persistente"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Sinal de Chvostek positivo está associado a:",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertireoidismo",
+        "answer_b": "Síndrome de Cushing",
+        "answer_c": "Hipoparatireoidismo",
+        "answer_d": "Acromegalia"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Paciente com cefaleia, alterações visuais e hipogonadismo sugere:",
+        "correct_answer": "answer_b",
+        "answer_a": "Síndrome de Cushing",
+        "answer_b": "Adenoma hipofisário",
+        "answer_c": "Doença de Addison",
+        "answer_d": "Hipertireoidismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Galactorreia em mulher não gestante sugere:",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Síndrome de Cushing",
+        "answer_c": "Insuficiência adrenal",
+        "answer_d": "Hiperprolactinemia"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Qual achado indica endocrinopatia grave?",
+        "correct_answer": "answer_a",
+        "answer_a": "Repercussão hemodinâmica",
+        "answer_b": "Alteração discreta de peso",
+        "answer_c": "Mudança leve de humor",
+        "answer_d": "Sudorese ocasional"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Na semiologia endócrina, qual achado tem maior valor prognóstico?",
+        "correct_answer": "answer_d",
+        "answer_a": "Tipo de alteração cutânea",
+        "answer_b": "Distribuição de gordura corporal",
+        "answer_c": "Presença de tremores",
+        "answer_d": "Comprometimento sistêmico"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Paciente com crises hipertensivas, sudorese e palpitações sugere:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Feocromocitoma",
+        "answer_c": "Hipopituitarismo",
+        "answer_d": "Hipoparatireoidismo"
+    },
+    {
+        "subject": "Doenças Endócrinas",
+        "title": "Qual manifestação clínica sugere urgência endócrina?",
+        "correct_answer": "answer_c",
+        "answer_a": "Ganho de peso progressivo",
+        "answer_b": "Alteração estética gradual",
+        "answer_c": "Rebaixamento do nível de consciência",
+        "answer_d": "Queda de cabelo"
+    }
+]

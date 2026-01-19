@@ -1,0 +1,43 @@
+@import './base.css';
+
+#app {
+  height: 100vh;
+  width: 100vw;
+  margin: 0 auto;
+  font-weight: normal;
+  background-color: rgb(59, 59, 59);
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: rgb(147, 255, 192);
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid rgb(147, 255, 192);
+  border-radius: 0.5rem;
+  margin: 10px 10px 10px 10px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+    border-radius: 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  #app {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+  }
+}

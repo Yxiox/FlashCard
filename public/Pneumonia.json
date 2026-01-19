@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Pneumonia",
+        "title": "Qual é o principal sintoma respiratório da pneumonia adquirida na comunidade?",
+        "correct_answer": "answer_a",
+        "answer_a": "Tosse associada ou não à expectoração",
+        "answer_b": "Espirros frequentes",
+        "answer_c": "Dor torácica em aperto",
+        "answer_d": "Hemoptise isolada sem tosse"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual característica da febre é mais comum na pneumonia bacteriana típica?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre baixa e vespertina",
+        "answer_b": "Febre alta de início súbito",
+        "answer_c": "Febre intermitente com sudorese noturna",
+        "answer_d": "Ausência de febre"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado semiológico sugere consolidação pulmonar?",
+        "correct_answer": "answer_c",
+        "answer_a": "Murmúrio vesicular aumentado",
+        "answer_b": "Hipersonoridade à percussão",
+        "answer_c": "Macicez à percussão",
+        "answer_d": "Sibilos difusos bilaterais"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "A presença de estertores crepitantes ocorre devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Broncoespasmo",
+        "answer_b": "Colapso alveolar permanente",
+        "answer_c": "Obstrução de vias aéreas superiores",
+        "answer_d": "Abertura súbita de alvéolos preenchidos por exsudato"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado clínico é mais comum em idosos com pneumonia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre alta persistente",
+        "answer_b": "Confusão mental ou delirium",
+        "answer_c": "Dor torácica pleurítica intensa",
+        "answer_d": "Hemoptise volumosa"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Dor torácica ventilatório-dependente na pneumonia sugere:",
+        "correct_answer": "answer_a",
+        "answer_a": "Comprometimento pleural",
+        "answer_b": "Isquemia miocárdica",
+        "answer_c": "Broncoespasmo difuso",
+        "answer_d": "Edema pulmonar"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual fator de risco aumenta a chance de pneumonia aspirativa?",
+        "correct_answer": "answer_c",
+        "answer_a": "Tabagismo isolado",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Alteração do nível de consciência",
+        "answer_d": "Sedentarismo"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual alteração vocal sugere consolidação pulmonar?",
+        "correct_answer": "answer_d",
+        "answer_a": "Diminuição do frêmito tóraco-vocal",
+        "answer_b": "Ausência de transmissão vocal",
+        "answer_c": "Voz abafada bilateral",
+        "answer_d": "Broncofonia"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Paciente com pneumonia apresenta aumento do frêmito tóraco-vocal devido a:",
+        "correct_answer": "answer_b",
+        "answer_a": "Presença de ar no espaço pleural",
+        "answer_b": "Maior transmissão sonora pelo parênquima consolidado",
+        "answer_c": "Espessamento da parede torácica",
+        "answer_d": "Redução da ventilação alveolar"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual sinal vital é mais sensível para gravidade da pneumonia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Temperatura corporal",
+        "answer_b": "Frequência cardíaca",
+        "answer_c": "Frequência respiratória",
+        "answer_d": "Pressão arterial sistólica"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Taquipneia na pneumonia indica principalmente:",
+        "correct_answer": "answer_a",
+        "answer_a": "Comprometimento da troca gasosa",
+        "answer_b": "Ansiedade isolada",
+        "answer_c": "Dor torácica sem repercussão",
+        "answer_d": "Resposta vagal"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado sugere pneumonia atípica?",
+        "correct_answer": "answer_b",
+        "answer_a": "Expectoração purulenta abundante",
+        "answer_b": "Tosse seca e sintomas extrapulmonares",
+        "answer_c": "Macicez extensa à percussão",
+        "answer_d": "Broncofonia intensa"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Paciente jovem com febre, cefaleia, mialgia e tosse seca sugere pneumonia por:",
+        "correct_answer": "answer_c",
+        "answer_a": "Streptococcus pneumoniae",
+        "answer_b": "Haemophilus influenzae",
+        "answer_c": "Mycoplasma pneumoniae",
+        "answer_d": "Klebsiella pneumoniae"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado auscultatório pode estar presente na fase inicial da pneumonia?",
+        "correct_answer": "answer_d",
+        "answer_a": "Silêncio auscultatório",
+        "answer_b": "Roncos difusos",
+        "answer_c": "Sibilância isolada",
+        "answer_d": "Estertores crepitantes finos"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Na pneumonia lobar, o exame físico costuma revelar:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipersonoridade e redução do frêmito",
+        "answer_b": "Macicez, broncofonia e aumento do frêmito",
+        "answer_c": "Sibilos difusos e murmúrio diminuído",
+        "answer_d": "Abolição do murmúrio vesicular bilateral"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual sinal indica possível derrame pleural associado à pneumonia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Broncofonia aumentada",
+        "answer_b": "Pectorilóquia afônica",
+        "answer_c": "Redução do frêmito tóraco-vocal",
+        "answer_d": "Estertores crepitantes localizados"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Idoso com pneumonia pode não apresentar febre devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Uso de antibióticos prévios",
+        "answer_b": "Hipermetabolismo",
+        "answer_c": "Infecção viral associada",
+        "answer_d": "Resposta inflamatória atenuada"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual manifestação indica pneumonia grave?",
+        "correct_answer": "answer_a",
+        "answer_a": "Confusão mental",
+        "answer_b": "Tosse produtiva",
+        "answer_c": "Dor torácica leve",
+        "answer_d": "Febre isolada"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Cianose em paciente com pneumonia indica:",
+        "correct_answer": "answer_b",
+        "answer_a": "Infecção viral autolimitada",
+        "answer_b": "Hipoxemia significativa",
+        "answer_c": "Anemia crônica",
+        "answer_d": "Vasoconstrição periférica"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado extrapulmonar pode estar presente na pneumonia pneumocócica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Exantema maculopapular",
+        "answer_b": "Icterícia obstrutiva",
+        "answer_c": "Artrite simétrica",
+        "answer_d": "Herpes labial"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Na semiologia, a pectorilóquia ocorre quando:",
+        "correct_answer": "answer_c",
+        "answer_a": "Há líquido pleural abundante",
+        "answer_b": "O pulmão está hiperinsuflado",
+        "answer_c": "A voz é transmitida com nitidez anormal",
+        "answer_d": "Há obstrução brônquica completa"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Qual achado sugere pneumonia em imunossuprimidos?",
+        "correct_answer": "answer_b",
+        "answer_a": "Sintomas exuberantes e febre alta",
+        "answer_b": "Quadro clínico oligosintomático",
+        "answer_c": "Dor pleurítica intensa",
+        "answer_d": "Expectoração hemoptoica"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "A ausculta com sopro tubário indica:",
+        "correct_answer": "answer_a",
+        "answer_a": "Consolidação alveolar",
+        "answer_b": "Broncoespasmo",
+        "answer_c": "Derrame pleural volumoso",
+        "answer_d": "Pneumotórax"
+    },
+    {
+        "subject": "Pneumonia",
+        "title": "Na avaliação clínica da pneumonia, qual achado tem maior valor prognóstico?",
+        "correct_answer": "answer_d",
+        "answer_a": "Presença de tosse",
+        "answer_b": "Tipo de expectoração",
+        "answer_c": "Dor torácica",
+        "answer_d": "Alteração do estado mental"
+    }
+]
