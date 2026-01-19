@@ -1,0 +1,218 @@
+[
+     {
+        "subject": "Malária",
+        "title": "Qual é a principal forma de transmissão da malária ao ser humano?",
+        "correct_answer": "answer_b",
+        "answer_a": "Contato direto com secreções respiratórias",
+        "answer_b": "Picada da fêmea do mosquito Anopheles infectada",
+        "answer_c": "Ingestão de água contaminada",
+        "answer_d": "Contato com solo contaminado"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual sintoma clássico caracteriza o paroxismo malárico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Febre contínua sem calafrios",
+        "answer_b": "Dor abdominal intensa e diarreia",
+        "answer_c": "Calafrios, febre alta e sudorese",
+        "answer_d": "Tosse produtiva e dispneia"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente apresenta febre intermitente, cefaleia, mialgia e esplenomegalia. Qual achado semiológico abdominal é mais esperado na malária?",
+        "correct_answer": "answer_a",
+        "answer_a": "Esplenomegalia dolorosa à palpação",
+        "answer_b": "Ascite volumosa",
+        "answer_c": "Hepatomegalia nodular endurecida",
+        "answer_d": "Sinal de Murphy positivo"
+    },
+    {
+        "subject": "Malária",
+        "title": "A anemia observada na malária ocorre principalmente devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Deficiência de ferro por má absorção",
+        "answer_b": "Hemodiluição secundária à febre",
+        "answer_c": "Sangramentos ocultos gastrointestinais",
+        "answer_d": "Hemólise de hemácias parasitadas e não parasitadas"
+    },
+    {
+        "subject": "Malária",
+        "title": "Homem de 34 anos retorna da região amazônica com febre alta, calafrios intensos e sudorese profusa. Qual aspecto da história epidemiológica é mais relevante para o diagnóstico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Consumo recente de alimentos crus",
+        "answer_b": "Estadia em área endêmica sem uso de profilaxia",
+        "answer_c": "Histórico familiar de anemia",
+        "answer_d": "Contato com pacientes gripados"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual espécie de Plasmodium está mais associada às formas graves de malária?",
+        "correct_answer": "answer_c",
+        "answer_a": "Plasmodium vivax",
+        "answer_b": "Plasmodium ovale",
+        "answer_c": "Plasmodium falciparum",
+        "answer_d": "Plasmodium malariae"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente com malária apresenta rebaixamento do nível de consciência, convulsões e hipoglicemia. Esse quadro é mais compatível com:",
+        "correct_answer": "answer_d",
+        "answer_a": "Malária não complicada",
+        "answer_b": "Malária crônica assintomática",
+        "answer_c": "Recidiva tardia da infecção",
+        "answer_d": "Malária grave com acometimento cerebral"
+    },
+    {
+        "subject": "Malária",
+        "title": "Na semiologia da malária grave, qual achado clínico indica pior prognóstico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre alta isolada",
+        "answer_b": "Alteração do nível de consciência",
+        "answer_c": "Cefaleia leve persistente",
+        "answer_d": "Sudorese após o pico febril"
+    },
+        {
+        "subject": "Malária",
+        "title": "Qual órgão é mais frequentemente acometido ao exame físico na malária, devido à hiperplasia do sistema mononuclear fagocitário?",
+        "correct_answer": "answer_c",
+        "answer_a": "Pulmões",
+        "answer_b": "Rins",
+        "answer_c": "Baço",
+        "answer_d": "Pâncreas"
+    },
+    {
+        "subject": "Malária",
+        "title": "A febre na malária clássica apresenta qual padrão temporal?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre contínua sem variações",
+        "answer_b": "Febre intermitente com picos periódicos",
+        "answer_c": "Febre exclusivamente noturna",
+        "answer_d": "Febre bifásica"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual achado clínico pode estar presente durante a fase de calafrios do paroxismo malárico?",
+        "correct_answer": "answer_d",
+        "answer_a": "Bradicardia e sudorese",
+        "answer_b": "Hipotermia persistente",
+        "answer_c": "Hipertensão arterial isolada",
+        "answer_d": "Tremores intensos e palidez cutânea"
+    },
+    {
+        "subject": "Malária",
+        "title": "Além da febre, qual sintoma sistêmico é comumente referido por pacientes com malária?",
+        "correct_answer": "answer_a",
+        "answer_a": "Cefaleia e mialgia",
+        "answer_b": "Prurido intenso",
+        "answer_c": "Tosse produtiva",
+        "answer_d": "Edema de face"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual achado laboratorial está frequentemente associado à malária e pode ser inferido clinicamente pela semiologia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Leucocitose importante",
+        "answer_b": "Anemia",
+        "answer_c": "Hipercalcemia",
+        "answer_d": "Policitemia"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente com malária apresenta icterícia. Esse achado ocorre principalmente devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Obstrução biliar extra-hepática",
+        "answer_b": "Hepatite viral associada",
+        "answer_c": "Insuficiência hepática fulminante",
+        "answer_d": "Hemólise intensa"
+    },
+    {
+        "subject": "Malária",
+        "title": "Homem de 40 anos, febril, retornando de área endêmica, apresenta esplenomegalia e anemia. Qual diagnóstico diferencial deve ser considerado prioritariamente?",
+        "correct_answer": "answer_a",
+        "answer_a": "Leishmaniose visceral",
+        "answer_b": "Colecistite aguda",
+        "answer_c": "Pancreatite crônica",
+        "answer_d": "Asma brônquica"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual achado clínico diferencia malária grave de malária não complicada?",
+        "correct_answer": "answer_c",
+        "answer_a": "Febre acima de 38,5°C",
+        "answer_b": "Sudorese profusa",
+        "answer_c": "Disfunção orgânica",
+        "answer_d": "Cefaleia persistente"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente com Plasmodium falciparum apresenta dispneia e estertores crepitantes difusos. Qual complicação deve ser suspeitada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Asma induzida por infecção",
+        "answer_b": "Edema pulmonar não cardiogênico",
+        "answer_c": "Pneumonia bacteriana típica",
+        "answer_d": "Derrame pleural simples"
+    },
+    {
+        "subject": "Malária",
+        "title": "Na malária cerebral, qual sinal neurológico é mais frequentemente observado?",
+        "correct_answer": "answer_d",
+        "answer_a": "Paralisia facial periférica",
+        "answer_b": "Déficit sensitivo isolado",
+        "answer_c": "Ataxia cerebelar",
+        "answer_d": "Rebaixamento do nível de consciência"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual alteração metabólica é comum na malária grave e pode agravar o prognóstico?",
+        "correct_answer": "answer_a",
+        "answer_a": "Hipoglicemia",
+        "answer_b": "Hipercalemia",
+        "answer_c": "Alcalose respiratória",
+        "answer_d": "Hipernatremia"
+    },
+    {
+        "subject": "Malária",
+        "title": "Em gestantes, a malária está associada a maior risco de:",
+        "correct_answer": "answer_c",
+        "answer_a": "Malformações congênitas estruturais",
+        "answer_b": "Polidrâmnio",
+        "answer_c": "Baixo peso ao nascer",
+        "answer_d": "Trabalho de parto prolongado"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual mecanismo fisiopatológico explica a malária cerebral?",
+        "correct_answer": "answer_b",
+        "answer_a": "Inflamação direta das meninges",
+        "answer_b": "Sequestro de hemácias parasitadas na microcirculação cerebral",
+        "answer_c": "Hipóxia por broncoespasmo",
+        "answer_d": "Edema cerebral traumático"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente com malária grave apresenta oligúria e creatinina elevada. Qual complicação está presente?",
+        "correct_answer": "answer_d",
+        "answer_a": "Síndrome nefrótica",
+        "answer_b": "Glomerulonefrite pós-infecciosa",
+        "answer_c": "Nefrite intersticial",
+        "answer_d": "Insuficiência renal aguda"
+    },
+    {
+        "subject": "Malária",
+        "title": "Qual achado clínico sugere evolução desfavorável em paciente com malária?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre intermitente",
+        "answer_b": "Alteração do estado mental",
+        "answer_c": "Mialgia leve",
+        "answer_d": "Cefaleia episódica"
+    },
+    {
+        "subject": "Malária",
+        "title": "Paciente retorna de área endêmica e apresenta febre sem padrão definido nos primeiros dias. Qual explicação semiológica justifica esse achado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Coinfecção bacteriana associada",
+        "answer_b": "Uso prévio de antitérmicos",
+        "answer_c": "Sincronização incompleta do ciclo eritrocitário inicial",
+        "answer_d": "Resposta imunológica exagerada"
+    }
+]

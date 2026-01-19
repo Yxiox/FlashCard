@@ -1,0 +1,209 @@
+[
+    {
+        "subject": "Tuberculose",
+        "title": "Qual é o principal sintoma respiratório da tuberculose pulmonar na semiologia?",
+        "correct_answer": "answer_a",
+        "answer_a": "Tosse persistente por mais de 3 semanas",
+        "answer_b": "Dor torácica súbita e intensa",
+        "answer_c": "Dispneia aguda de início rápido",
+        "answer_d": "Espirros frequentes e rinorreia"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual achado sistêmico é comumente associado à tuberculose ativa?",
+        "correct_answer": "answer_c",
+        "answer_a": "Ganho de peso progressivo",
+        "answer_b": "Hipertensão arterial",
+        "answer_c": "Sudorese noturna",
+        "answer_d": "Edema de membros inferiores"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na anamnese de um paciente com suspeita de tuberculose, qual fator epidemiológico é mais relevante?",
+        "correct_answer": "answer_b",
+        "answer_a": "História de asma na infância",
+        "answer_b": "Contato próximo com caso confirmado de tuberculose",
+        "answer_c": "Consumo excessivo de sal",
+        "answer_d": "Histórico familiar de diabetes"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual característica da tosse sugere tuberculose pulmonar em fases mais avançadas?",
+        "correct_answer": "answer_d",
+        "answer_a": "Tosse seca apenas noturna",
+        "answer_b": "Tosse associada a secreção purulenta esverdeada",
+        "answer_c": "Tosse desencadeada por esforço físico",
+        "answer_d": "Tosse com expectoração hemoptoica"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Ao exame físico de um paciente com tuberculose pulmonar, qual achado pode estar presente?",
+        "correct_answer": "answer_a",
+        "answer_a": "Estertores crepitantes em ápices pulmonares",
+        "answer_b": "Sibilos difusos bilaterais",
+        "answer_c": "Hipersonoridade difusa à percussão",
+        "answer_d": "Abolição do murmúrio vesicular em bases"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na anamnese, qual conjunto de sintomas é mais sugestivo de tuberculose pulmonar ativa?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre alta súbita, dor torácica pleurítica e dispneia intensa",
+        "answer_b": "Tosse crônica, emagrecimento, febre vespertina e sudorese noturna",
+        "answer_c": "Dispneia progressiva, ortopneia e edema de membros inferiores",
+        "answer_d": "Tosse seca, prurido nasal e espirros frequentes"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual achado semiológico respiratório é mais comum na tuberculose pulmonar cavitária?",
+        "correct_answer": "answer_c",
+        "answer_a": "Roncos difusos bilaterais",
+        "answer_b": "Sibilância inspiratória isolada",
+        "answer_c": "Sopro tubário em região apical",
+        "answer_d": "Hipofonese global dos sons respiratórios"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "A hemoptise na tuberculose ocorre principalmente devido a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Broncoespasmo intenso",
+        "answer_b": "Ruptura de alvéolos hiperinsuflados",
+        "answer_c": "Edema agudo de pulmão associado",
+        "answer_d": "Erosão vascular em cavidades pulmonares"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual linfonodomegalia é mais sugestiva de tuberculose ganglionar?",
+        "correct_answer": "answer_a",
+        "answer_a": "Indolor, endurecida, de crescimento lento e com possível fistulização",
+        "answer_b": "Dolorosa, hiperemiada e de início súbito",
+        "answer_c": "Móvel, elástica e regressiva espontaneamente",
+        "answer_d": "Associada exclusivamente a infecções virais agudas"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na tuberculose pleural, qual achado semiológico é esperado ao exame físico?",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipersonoridade e murmúrio vesicular aumentado",
+        "answer_b": "Macicez à percussão e redução do murmúrio vesicular",
+        "answer_c": "Estertores finos difusos",
+        "answer_d": "Sibilos expiratórios predominantes"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual manifestação clínica sugere tuberculose extrapulmonar do tipo osteoarticular?",
+        "correct_answer": "answer_c",
+        "answer_a": "Dor articular migratória e febre alta",
+        "answer_b": "Rigidez matinal simétrica de pequenas articulações",
+        "answer_c": "Dor lombar crônica associada à limitação funcional progressiva",
+        "answer_d": "Artrite aguda com sinais flogísticos intensos"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na tuberculose miliar, qual característica clínica é mais típica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Sintomas exclusivamente respiratórios localizados",
+        "answer_b": "Evolução lenta e assintomática",
+        "answer_c": "Quadro restrito a pacientes imunocompetentes jovens",
+        "answer_d": "Sintomas sistêmicos intensos com acometimento multissistêmico"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual achado neurológico pode sugerir tuberculose meníngea?",
+        "correct_answer": "answer_a",
+        "answer_a": "Cefaleia progressiva, rigidez de nuca e rebaixamento do nível de consciência",
+        "answer_b": "Crises convulsivas isoladas sem outros sintomas",
+        "answer_c": "Déficit motor súbito de instalação abrupta",
+        "answer_d": "Tremores finos de extremidades"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na inspeção geral de um paciente com tuberculose avançada, pode-se observar:",
+        "correct_answer": "answer_b",
+        "answer_a": "Obesidade central e fácies cushingoide",
+        "answer_b": "Caquexia, palidez cutaneomucosa e fácies de sofrimento",
+        "answer_c": "Cianose central intensa desde o início",
+        "answer_d": "Edema generalizado precoce"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual condição clínica aumenta significativamente o risco de formas graves e extrapulmonares de tuberculose?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipertensão arterial sistêmica",
+        "answer_c": "Infecção pelo HIV",
+        "answer_d": "Asma leve intermitente"
+    },
+        {
+        "subject": "Tuberculose",
+        "title": "Homem de 42 anos, emagrecido, refere tosse há 2 meses, febre vespertina e sudorese noturna. Ao exame físico, apresenta estertores crepitantes em ápice pulmonar direito e sopro tubário. Qual achado clínico melhor explica esse padrão auscultatório?",
+        "correct_answer": "answer_b",
+        "answer_a": "Broncoespasmo associado à inflamação difusa",
+        "answer_b": "Consolidação pulmonar com permeabilidade brônquica",
+        "answer_c": "Derrame pleural volumoso",
+        "answer_d": "Hiperdistensão alveolar"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Paciente de 29 anos apresenta linfonodomegalia cervical há 3 meses, indolor, de crescimento progressivo, com sinais inflamatórios discretos e presença de fístula cutânea. Qual é a principal hipótese diagnóstica?",
+        "correct_answer": "answer_c",
+        "answer_a": "Linfoma não Hodgkin",
+        "answer_b": "Linfadenite bacteriana aguda",
+        "answer_c": "Tuberculose ganglionar",
+        "answer_d": "Mononucleose infecciosa"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Mulher de 35 anos com febre baixa persistente, dor torácica ventilatório-dependente e dispneia leve. Ao exame físico: macicez à percussão e diminuição do murmúrio vesicular em base direita. Qual o diagnóstico mais provável?",
+        "correct_answer": "answer_a",
+        "answer_a": "Tuberculose pleural",
+        "answer_b": "Pneumonia lobar aguda",
+        "answer_c": "Embolia pulmonar",
+        "answer_d": "Asma brônquica"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Paciente imunossuprimido apresenta febre persistente, perda ponderal importante e comprometimento pulmonar, hepático e neurológico. Qual forma clínica de tuberculose deve ser prioritariamente considerada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Tuberculose pulmonar primária",
+        "answer_b": "Tuberculose pleural isolada",
+        "answer_c": "Tuberculose ganglionar",
+        "answer_d": "Tuberculose miliar"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Em relação à hemoptise na tuberculose pulmonar, assinale a alternativa correta:",
+        "correct_answer": "answer_b",
+        "answer_a": "Ocorre apenas nas fases iniciais da doença",
+        "answer_b": "Relaciona-se à erosão vascular em áreas cavitárias",
+        "answer_c": "É consequência direta de broncoconstrição",
+        "answer_d": "Está associada exclusivamente a derrame pleural"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Homem de 50 anos apresenta cefaleia progressiva, febre baixa, rigidez de nuca e rebaixamento do nível de consciência. Considerando tuberculose meníngea, qual característica clínica reforça esse diagnóstico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Instalação abrupta dos sintomas",
+        "answer_b": "Melhora espontânea em poucos dias",
+        "answer_c": "Evolução subaguda com sintomas progressivos",
+        "answer_d": "Presença de sinais focais isolados sem febre"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Na inspeção geral de um paciente com tuberculose avançada, qual achado é mais frequentemente observado?",
+        "correct_answer": "answer_a",
+        "answer_a": "Caquexia e palidez cutaneomucosa",
+        "answer_b": "Cianose central precoce",
+        "answer_c": "Edema generalizado",
+        "answer_d": "Hipocratismo digital precoce"
+    },
+    {
+        "subject": "Tuberculose",
+        "title": "Qual fator clínico-epidemiológico está mais associado à reativação da tuberculose latente?",
+        "correct_answer": "answer_d",
+        "answer_a": "Atividade física intensa",
+        "answer_b": "Hipertensão arterial sistêmica",
+        "answer_c": "Dislipidemia",
+        "answer_d": "Imunossupressão"
+    }
+]

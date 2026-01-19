@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Leucemia",
+        "title": "Leucemia é definida como:",
+        "correct_answer": "answer_a",
+        "answer_a": "Proliferação maligna de células hematopoiéticas na medula óssea",
+        "answer_b": "Doença autoimune do sangue",
+        "answer_c": "Infecção viral crônica do sistema linfático",
+        "answer_d": "Deficiência nutricional de células sanguíneas"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual sintoma geral é mais comum na apresentação inicial das leucemias?",
+        "correct_answer": "answer_b",
+        "answer_a": "Dor torácica",
+        "answer_b": "Fadiga e fraqueza",
+        "answer_c": "Dispneia súbita",
+        "answer_d": "Prurido intenso"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "A fadiga na leucemia ocorre principalmente devido a:",
+        "correct_answer": "answer_c",
+        "answer_a": "Processo inflamatório pulmonar",
+        "answer_b": "Infecção viral associada",
+        "answer_c": "Anemia secundária à infiltração medular",
+        "answer_d": "Hipotireoidismo associado"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado semiológico é comum em pacientes com leucemia aguda?",
+        "correct_answer": "answer_d",
+        "answer_a": "Coiloníquia",
+        "answer_b": "Cianose central",
+        "answer_c": "Xantelasma",
+        "answer_d": "Palidez cutaneomucosa"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Sangramentos espontâneos em pacientes com leucemia ocorrem principalmente devido a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Trombocitopenia",
+        "answer_b": "Deficiência de fatores de coagulação",
+        "answer_c": "Hipertensão arterial",
+        "answer_d": "Vasculite sistêmica"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual manifestação cutânea sugere trombocitopenia associada à leucemia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Urticária",
+        "answer_b": "Petéquias",
+        "answer_c": "Eritema nodoso",
+        "answer_d": "Cianose periférica"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Infecções recorrentes em pacientes com leucemia estão relacionadas principalmente a:",
+        "correct_answer": "answer_c",
+        "answer_a": "Déficit de anticorpos IgE",
+        "answer_b": "Hipogamaglobulinemia isolada",
+        "answer_c": "Neutropenia funcional ou quantitativa",
+        "answer_d": "Uso de corticosteroides"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado ao exame físico sugere infiltração medular avançada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hiperemia conjuntival",
+        "answer_b": "Edema de membros inferiores",
+        "answer_c": "Hipertensão arterial",
+        "answer_d": "Dor óssea à palpação"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Dor óssea em pacientes com leucemia ocorre devido a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Expansão da medula óssea por células neoplásicas",
+        "answer_b": "Processo inflamatório articular",
+        "answer_c": "Osteoporose primária",
+        "answer_d": "Isquemia muscular"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado é mais comum em leucemias crônicas?",
+        "correct_answer": "answer_b",
+        "answer_a": "Instalação abrupta dos sintomas",
+        "answer_b": "Esplenomegalia",
+        "answer_c": "Hemorragia maciça",
+        "answer_d": "Febre alta persistente"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "A esplenomegalia na leucemia está relacionada principalmente a:",
+        "correct_answer": "answer_c",
+        "answer_a": "Congestão portal",
+        "answer_b": "Processo infeccioso primário",
+        "answer_c": "Hematopoiese extramedular",
+        "answer_d": "Doença hepática associada"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado linfonodal sugere malignidade hematológica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Linfonodos dolorosos e móveis",
+        "answer_b": "Linfonodos flutuantes",
+        "answer_c": "Linfonodos pequenos e elásticos",
+        "answer_d": "Linfonodos endurecidos e indolores"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Febre em paciente com leucemia pode indicar:",
+        "correct_answer": "answer_b",
+        "answer_a": "Resposta alérgica",
+        "answer_b": "Infecção associada à neutropenia",
+        "answer_c": "Doença autoimune",
+        "answer_d": "Hipertireoidismo"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Paciente com leucemia pode apresentar perda de peso principalmente devido a:",
+        "correct_answer": "answer_a",
+        "answer_a": "Estado hipercatabólico",
+        "answer_b": "Restrição alimentar voluntária",
+        "answer_c": "Síndrome disabsortiva",
+        "answer_d": "Hipoglicemia recorrente"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado sugere leucemia linfoblástica aguda em crianças?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertensão arterial",
+        "answer_b": "Artrite simétrica",
+        "answer_c": "Dor óssea e claudicação",
+        "answer_d": "Edema generalizado"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Na leucemia mieloide aguda, qual achado clínico pode estar presente?",
+        "correct_answer": "answer_d",
+        "answer_a": "Coiloníquia",
+        "answer_b": "Úlceras maleolares",
+        "answer_c": "Xantomas",
+        "answer_d": "Hiperplasia gengival"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Hiperplasia gengival é mais frequentemente associada a:",
+        "correct_answer": "answer_b",
+        "answer_a": "Leucemia linfocítica crônica",
+        "answer_b": "Leucemia mieloide aguda",
+        "answer_c": "Leucemia mieloide crônica",
+        "answer_d": "Linfoma de Hodgkin"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado sugere leucemia linfocítica crônica (LLC)?",
+        "correct_answer": "answer_a",
+        "answer_a": "Linfadenomegalia indolor e progressiva",
+        "answer_b": "Dor óssea intensa",
+        "answer_c": "Sangramento mucoso grave",
+        "answer_d": "Febre alta súbita"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Paciente com leucemia apresenta confusão mental aguda. Qual complicação deve ser considerada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Déficit de vitamina B12",
+        "answer_c": "Depressão reativa",
+        "answer_d": "Infecção do sistema nervoso central"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual sinal clínico indica gravidade em paciente com leucemia?",
+        "correct_answer": "answer_b",
+        "answer_a": "Linfadenomegalia localizada",
+        "answer_b": "Sangramentos espontâneos",
+        "answer_c": "Fadiga leve",
+        "answer_d": "Febre baixa isolada"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Na semiologia, a tríade clássica da leucemia inclui:",
+        "correct_answer": "answer_c",
+        "answer_a": "Febre, tosse e dispneia",
+        "answer_b": "Icterícia, esplenomegalia e ascite",
+        "answer_c": "Anemia, infecções e sangramentos",
+        "answer_d": "Dor abdominal, vômitos e diarreia"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado sugere leucemia avançada com repercussão sistêmica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Palidez discreta",
+        "answer_b": "Linfadenomegalia única",
+        "answer_c": "Febre ocasional",
+        "answer_d": "Caquexia"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Em pacientes idosos, a leucemia pode se manifestar principalmente como:",
+        "correct_answer": "answer_b",
+        "answer_a": "Dor óssea intensa",
+        "answer_b": "Declínio funcional progressivo",
+        "answer_c": "Febre alta persistente",
+        "answer_d": "Sangramento maciço"
+    },
+    {
+        "subject": "Leucemia",
+        "title": "Qual achado clínico tem maior valor prognóstico inicial na leucemia?",
+        "correct_answer": "answer_a",
+        "answer_a": "Repercussão clínica e hemodinâmica",
+        "answer_b": "Tipo de linfonodo acometido",
+        "answer_c": "Presença de dor óssea",
+        "answer_d": "Aspecto da pele"
+    }
+]

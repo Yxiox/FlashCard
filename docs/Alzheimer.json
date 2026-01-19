@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Alzheimer",
+        "title": "Qual é o principal sintoma inicial da Doença de Alzheimer?",
+        "correct_answer": "answer_a",
+        "answer_a": "Comprometimento progressivo da memória recente",
+        "answer_b": "Alteração súbita do nível de consciência",
+        "answer_c": "Déficit motor focal",
+        "answer_d": "Crises convulsivas precoces"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "A Doença de Alzheimer é classificada como:",
+        "correct_answer": "answer_b",
+        "answer_a": "Demência vascular",
+        "answer_b": "Demência neurodegenerativa",
+        "answer_c": "Demência infecciosa",
+        "answer_d": "Demência metabólica"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual função cognitiva é tipicamente comprometida nas fases iniciais da doença?",
+        "correct_answer": "answer_c",
+        "answer_a": "Linguagem expressiva",
+        "answer_b": "Função executiva",
+        "answer_c": "Memória episódica",
+        "answer_d": "Praxia motora"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado na anamnese sugere Doença de Alzheimer em vez de delirium?",
+        "correct_answer": "answer_d",
+        "answer_a": "Início agudo",
+        "answer_b": "Flutuação do nível de consciência",
+        "answer_c": "Desatenção marcante",
+        "answer_d": "Evolução lenta e progressiva"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual estrutura cerebral é primariamente afetada nas fases iniciais da Doença de Alzheimer?",
+        "correct_answer": "answer_a",
+        "answer_a": "Hipocampo",
+        "answer_b": "Cerebelo",
+        "answer_c": "Tronco encefálico",
+        "answer_d": "Gânglios da base"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual sinal sugere progressão da Doença de Alzheimer?",
+        "correct_answer": "answer_b",
+        "answer_a": "Melhora espontânea da memória",
+        "answer_b": "Comprometimento das atividades instrumentais de vida diária",
+        "answer_c": "Déficit motor súbito",
+        "answer_d": "Cefaleia persistente"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual alteração comportamental pode ocorrer nas fases intermediárias da doença?",
+        "correct_answer": "answer_c",
+        "answer_a": "Catatonia",
+        "answer_b": "Euforia persistente",
+        "answer_c": "Apatia e irritabilidade",
+        "answer_d": "Delírios sistematizados precoces"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado ao exame do estado mental é comum na Doença de Alzheimer?",
+        "correct_answer": "answer_d",
+        "answer_a": "Desorientação isolada no tempo",
+        "answer_b": "Afasia súbita",
+        "answer_c": "Déficit de atenção flutuante",
+        "answer_d": "Dificuldade de evocação com melhora parcial por pistas"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual exame é mais utilizado para triagem cognitiva na prática clínica?",
+        "correct_answer": "answer_a",
+        "answer_a": "Mini Exame do Estado Mental (MEEM)",
+        "answer_b": "Eletroencefalograma",
+        "answer_c": "Tomografia de crânio contrastada",
+        "answer_d": "Punção lombar"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado de imagem é mais compatível com Doença de Alzheimer?",
+        "correct_answer": "answer_b",
+        "answer_a": "Lesões isquêmicas extensas",
+        "answer_b": "Atrofia cortical difusa com predomínio temporal",
+        "answer_c": "Hidrocefalia obstrutiva",
+        "answer_d": "Lesão expansiva focal"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual diagnóstico diferencial cursa com declínio cognitivo em degraus?",
+        "correct_answer": "answer_c",
+        "answer_a": "Doença de Alzheimer",
+        "answer_b": "Demência frontotemporal",
+        "answer_c": "Demência vascular",
+        "answer_d": "Demência por corpos de Lewy"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado sugere demência por corpos de Lewy em vez de Alzheimer?",
+        "correct_answer": "answer_d",
+        "answer_a": "Comprometimento precoce da memória",
+        "answer_b": "Evolução lenta e contínua",
+        "answer_c": "Atrofia hipocampal",
+        "answer_d": "Alucinações visuais precoces"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual sintoma motor pode surgir nas fases avançadas da Doença de Alzheimer?",
+        "correct_answer": "answer_b",
+        "answer_a": "Hemiparesia súbita",
+        "answer_b": "Marcha apraxica",
+        "answer_c": "Coreia",
+        "answer_d": "Distonia focal"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado indica comprometimento funcional avançado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Esquecimento de nomes recentes",
+        "answer_b": "Dificuldade para lidar com finanças",
+        "answer_c": "Dependência para atividades básicas de vida diária",
+        "answer_d": "Desorientação temporal leve"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual fator de risco mais importante para Doença de Alzheimer?",
+        "correct_answer": "answer_d",
+        "answer_a": "Sexo masculino",
+        "answer_b": "Hipotireoidismo",
+        "answer_c": "Tabagismo",
+        "answer_d": "Idade avançada"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual proteína está associada à fisiopatologia da Doença de Alzheimer?",
+        "correct_answer": "answer_b",
+        "answer_a": "Alfa-sinucleína",
+        "answer_b": "Beta-amiloide",
+        "answer_c": "Príon",
+        "answer_d": "Distrofina"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Os emaranhados neurofibrilares são formados principalmente por:",
+        "correct_answer": "answer_c",
+        "answer_a": "Proteína beta-amiloide",
+        "answer_b": "Alfa-sinucleína",
+        "answer_c": "Proteína tau hiperfosforilada",
+        "answer_d": "Proteína prion"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado laboratorial deve ser excluído na investigação inicial de demência?",
+        "correct_answer": "answer_a",
+        "answer_a": "Hipotireoidismo",
+        "answer_b": "Hipercalcemia por neoplasia",
+        "answer_c": "Hiponatremia aguda",
+        "answer_d": "Insuficiência adrenal"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual característica sugere pseudodemência depressiva em vez de Alzheimer?",
+        "correct_answer": "answer_d",
+        "answer_a": "Progressão lenta",
+        "answer_b": "Comprometimento da memória episódica",
+        "answer_c": "Atrofia cortical",
+        "answer_d": "Queixa cognitiva desproporcional ao déficit objetivo"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual manifestação psiquiátrica pode ocorrer na Doença de Alzheimer avançada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Episódios maníacos",
+        "answer_b": "Delírios e agitação psicomotora",
+        "answer_c": "Catatonia",
+        "answer_d": "Transtorno de personalidade"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual complicação é causa frequente de óbito em pacientes com Alzheimer avançado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Infarto agudo do miocárdio",
+        "answer_b": "Acidente vascular cerebral hemorrágico",
+        "answer_c": "Pneumonia aspirativa",
+        "answer_d": "Crise convulsiva"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual escala avalia estadiamento funcional da demência?",
+        "correct_answer": "answer_b",
+        "answer_a": "Escala de Glasgow",
+        "answer_b": "Clinical Dementia Rating (CDR)",
+        "answer_c": "NIHSS",
+        "answer_d": "Escala de Rankin modificada"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Qual achado diferencia Alzheimer de delirium no exame clínico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Déficit cognitivo",
+        "answer_b": "Desorientação",
+        "answer_c": "Nível de consciência preservado",
+        "answer_d": "Alteração do ciclo sono-vigília"
+    },
+    {
+        "subject": "Alzheimer",
+        "title": "Na Doença de Alzheimer, o curso clínico típico é:",
+        "correct_answer": "answer_d",
+        "answer_a": "Agudo e reversível",
+        "answer_b": "Flutuante com remissões completas",
+        "answer_c": "Rápido com déficits focais",
+        "answer_d": "Crônico, progressivo e irreversível"
+    }
+]

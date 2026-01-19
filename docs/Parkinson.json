@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Parkinson",
+        "title": "Qual é a principal manifestação motora inicial da Doença de Parkinson?",
+        "correct_answer": "answer_b",
+        "answer_a": "Fraqueza muscular proximal",
+        "answer_b": "Bradicinesia",
+        "answer_c": "Espasticidade",
+        "answer_d": "Ataxia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "A tríade clássica da Doença de Parkinson inclui:",
+        "correct_answer": "answer_a",
+        "answer_a": "Bradicinesia, rigidez e tremor de repouso",
+        "answer_b": "Tremor de ação, ataxia e disartria",
+        "answer_c": "Espasticidade, fraqueza e hiperreflexia",
+        "answer_d": "Rigidez, coreia e distonia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual característica do tremor parkinsoniano é mais típica?",
+        "correct_answer": "answer_c",
+        "answer_a": "Tremor de intenção",
+        "answer_b": "Tremor postural isolado",
+        "answer_c": "Tremor de repouso, assimétrico",
+        "answer_d": "Tremor distal bilateral simétrico"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual estrutura cerebral está primariamente acometida na Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "Córtex frontal",
+        "answer_b": "Cerebelo",
+        "answer_c": "Hipocampo",
+        "answer_d": "Substância negra pars compacta"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "A fisiopatologia da Doença de Parkinson envolve principalmente:",
+        "correct_answer": "answer_a",
+        "answer_a": "Degeneração dopaminérgica nigroestriatal",
+        "answer_b": "Depósito de beta-amiloide",
+        "answer_c": "Desmielinização central",
+        "answer_d": "Isquemia cortical difusa"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado postural é típico da Doença de Parkinson?",
+        "correct_answer": "answer_b",
+        "answer_a": "Postura em opistótono",
+        "answer_b": "Postura fletida de tronco e membros",
+        "answer_c": "Hipercifose estrutural fixa",
+        "answer_d": "Postura escoliótica dolorosa"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual alteração da marcha é comum na Doença de Parkinson?",
+        "correct_answer": "answer_c",
+        "answer_a": "Marcha atáxica",
+        "answer_b": "Marcha escarvante",
+        "answer_c": "Marcha festinante com passos curtos",
+        "answer_d": "Marcha hemiparética"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado facial é característico da Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "Ptose palpebral",
+        "answer_b": "Assimetria facial flácida",
+        "answer_c": "Espasmo hemifacial",
+        "answer_d": "Fácies em máscara"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual sintoma não motor pode preceder os sintomas motores?",
+        "correct_answer": "answer_b",
+        "answer_a": "Convulsões",
+        "answer_b": "Hiposmia",
+        "answer_c": "Cefaleia",
+        "answer_d": "Diplopia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual alteração da escrita é observada na Doença de Parkinson?",
+        "correct_answer": "answer_c",
+        "answer_a": "Afasia escrita",
+        "answer_b": "Disgrafia expansiva",
+        "answer_c": "Micrografia",
+        "answer_d": "Agrafia total"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado diferencia Doença de Parkinson de parkinsonismo secundário?",
+        "correct_answer": "answer_a",
+        "answer_a": "Resposta inicial à levodopa",
+        "answer_b": "Rigidez muscular",
+        "answer_c": "Tremor",
+        "answer_d": "Bradicinesia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual medicação é considerada padrão-ouro no tratamento da Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "Haloperidol",
+        "answer_b": "Baclofeno",
+        "answer_c": "Amantadina isolada",
+        "answer_d": "Levodopa associada a inibidor da dopa-descarboxilase"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual complicação motora está associada ao uso crônico de levodopa?",
+        "correct_answer": "answer_b",
+        "answer_a": "Espasticidade",
+        "answer_b": "Discinesias",
+        "answer_c": "Ataxia",
+        "answer_d": "Neuropatia periférica"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado sugere Doença de Parkinson avançada?",
+        "correct_answer": "answer_c",
+        "answer_a": "Tremor isolado unilateral",
+        "answer_b": "Hiposmia",
+        "answer_c": "Instabilidade postural",
+        "answer_d": "Micrografia leve"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual reflexo postural está alterado na Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "Reflexo cutâneo-plantar",
+        "answer_b": "Reflexo patelar",
+        "answer_c": "Reflexo aquileu",
+        "answer_d": "Reflexos de endireitamento"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual característica ajuda a diferenciar Parkinson de tremor essencial?",
+        "correct_answer": "answer_b",
+        "answer_a": "Presença de tremor",
+        "answer_b": "Tremor de repouso predominante",
+        "answer_c": "História familiar",
+        "answer_d": "Idade de início"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual sintoma autonômico é comum na Doença de Parkinson?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hipertensão persistente",
+        "answer_b": "Taquicardia sinusal",
+        "answer_c": "Constipação intestinal",
+        "answer_d": "Poliúria"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual alteração do sono é frequentemente associada à Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "Narcolepsia",
+        "answer_b": "Insônia primária",
+        "answer_c": "Apneia obstrutiva isolada",
+        "answer_d": "Transtorno comportamental do sono REM"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado sugere parkinsonismo atípico?",
+        "correct_answer": "answer_a",
+        "answer_a": "Quedas precoces e pouca resposta à levodopa",
+        "answer_b": "Tremor unilateral inicial",
+        "answer_c": "Bradicinesia assimétrica",
+        "answer_d": "Hiposmia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual manifestação cognitiva pode ocorrer na Doença de Parkinson avançada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Amnésia episódica isolada",
+        "answer_b": "Demência associada ao Parkinson",
+        "answer_c": "Delirium agudo permanente",
+        "answer_d": "Afasia progressiva primária"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado clínico diferencia Parkinson de demência por corpos de Lewy?",
+        "correct_answer": "answer_c",
+        "answer_a": "Bradicinesia",
+        "answer_b": "Rigidez muscular",
+        "answer_c": "Comprometimento cognitivo tardio",
+        "answer_d": "Tremor de repouso"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual complicação frequente em fases avançadas da Doença de Parkinson?",
+        "correct_answer": "answer_d",
+        "answer_a": "AVC hemorrágico",
+        "answer_b": "Crises convulsivas",
+        "answer_c": "Insuficiência respiratória aguda",
+        "answer_d": "Quedas e fraturas"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "Qual achado semiológico é clássico no exame de tônus muscular do paciente parkinsoniano?",
+        "correct_answer": "answer_b",
+        "answer_a": "Espasticidade em canivete",
+        "answer_b": "Rigidez plástica em roda dentada",
+        "answer_c": "Hipotonia flácida",
+        "answer_d": "Paratonia"
+    },
+    {
+        "subject": "Parkinson",
+        "title": "O curso clínico da Doença de Parkinson é tipicamente:",
+        "correct_answer": "answer_c",
+        "answer_a": "Agudo e autolimitado",
+        "answer_b": "Intermitente com remissões completas",
+        "answer_c": "Crônico, progressivo e neurodegenerativo",
+        "answer_d": "Rápido e fatal em poucos meses"
+    }
+]

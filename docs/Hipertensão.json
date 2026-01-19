@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual é o critério diagnóstico clássico para hipertensão arterial em adultos?",
+        "correct_answer": "answer_b",
+        "answer_a": "PA ≥ 130/80 mmHg em uma única medida",
+        "answer_b": "PA ≥ 140/90 mmHg em medidas repetidas",
+        "answer_c": "PA ≥ 150/95 mmHg em repouso",
+        "answer_d": "PA ≥ 160/100 mmHg isoladamente"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "A maioria dos pacientes com hipertensão arterial apresenta qual característica clínica?",
+        "correct_answer": "answer_d",
+        "answer_a": "Cefaleia intensa diária",
+        "answer_b": "Palpitações frequentes",
+        "answer_c": "Dor torácica aos esforços",
+        "answer_d": "Assintomáticos"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado semiológico pode estar presente em pacientes com hipertensão arterial crônica?",
+        "correct_answer": "answer_a",
+        "answer_a": "Retinopatia hipertensiva",
+        "answer_b": "Cianose central",
+        "answer_c": "Baqueteamento digital",
+        "answer_d": "Icterícia"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual fator de risco modificável está mais associado à hipertensão arterial?",
+        "correct_answer": "answer_c",
+        "answer_a": "Idade avançada",
+        "answer_b": "História familiar",
+        "answer_c": "Sedentarismo",
+        "answer_d": "Sexo masculino"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso refere cefaleia occipital matinal. Esse sintoma está associado a:",
+        "correct_answer": "answer_b",
+        "answer_a": "Hipoglicemia",
+        "answer_b": "Elevação da pressão arterial",
+        "answer_c": "Enxaqueca clássica",
+        "answer_d": "Sinusite aguda"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual órgão-alvo é mais frequentemente acometido pela hipertensão arterial?",
+        "correct_answer": "answer_d",
+        "answer_a": "Pulmões",
+        "answer_b": "Fígado",
+        "answer_c": "Pâncreas",
+        "answer_d": "Coração"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado ao exame cardiovascular sugere hipertrofia ventricular esquerda?",
+        "correct_answer": "answer_a",
+        "answer_a": "Ictus cordis deslocado e sustentado",
+        "answer_b": "Bulhas hipofonéticas",
+        "answer_c": "Desdobramento fixo de B2",
+        "answer_d": "Sopro diastólico em foco aórtico"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual manifestação clínica sugere lesão renal secundária à hipertensão?",
+        "correct_answer": "answer_c",
+        "answer_a": "Poliúria isolada",
+        "answer_b": "Disúria",
+        "answer_c": "Proteinúria",
+        "answer_d": "Dor lombar aguda"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso apresenta claudicação intermitente. Esse achado indica:",
+        "correct_answer": "answer_b",
+        "answer_a": "Neuropatia periférica",
+        "answer_b": "Doença arterial periférica",
+        "answer_c": "Insuficiência venosa crônica",
+        "answer_d": "Trombose venosa profunda"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual exame físico é indispensável na avaliação do paciente hipertenso?",
+        "correct_answer": "answer_d",
+        "answer_a": "Exame neurológico apenas",
+        "answer_b": "Ausculta pulmonar isolada",
+        "answer_c": "Exame abdominal apenas",
+        "answer_d": "Medida correta da pressão arterial"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado fundoscópico é compatível com hipertensão arterial avançada?",
+        "correct_answer": "answer_a",
+        "answer_a": "Exsudatos, hemorragias e papiledema",
+        "answer_b": "Descolamento de retina",
+        "answer_c": "Catarata bilateral",
+        "answer_d": "Degeneração macular"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso apresenta dispneia aos esforços e ortopneia. Qual complicação deve ser suspeitada?",
+        "correct_answer": "answer_c",
+        "answer_a": "Asma brônquica",
+        "answer_b": "Doença pulmonar obstrutiva crônica",
+        "answer_c": "Insuficiência cardíaca",
+        "answer_d": "Pneumonia comunitária"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado sugere hipertensão arterial secundária?",
+        "correct_answer": "answer_b",
+        "answer_a": "História familiar positiva",
+        "answer_b": "Início precoce e difícil controle",
+        "answer_c": "Assintomática por anos",
+        "answer_d": "Boa resposta ao tratamento inicial"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente apresenta PA muito elevada, cefaleia intensa, confusão mental e papiledema. Qual diagnóstico é mais provável?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertensão estágio 1",
+        "answer_b": "Hipertensão mascarada",
+        "answer_c": "Hipertensão do avental branco",
+        "answer_d": "Emergência hipertensiva"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual órgão-alvo está envolvido quando há AVC em paciente hipertenso?",
+        "correct_answer": "answer_a",
+        "answer_a": "Sistema nervoso central",
+        "answer_b": "Rins",
+        "answer_c": "Coração",
+        "answer_d": "Olhos"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual mecanismo fisiopatológico contribui para a hipertensão arterial essencial?",
+        "correct_answer": "answer_c",
+        "answer_a": "Redução da resistência vascular periférica",
+        "answer_b": "Diminuição da atividade simpática",
+        "answer_c": "Aumento da resistência vascular periférica",
+        "answer_d": "Hipovolemia crônica"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso apresenta creatinina elevada e rins diminuídos ao USG. Esse achado sugere:",
+        "correct_answer": "answer_b",
+        "answer_a": "Nefrite aguda",
+        "answer_b": "Nefroesclerose hipertensiva",
+        "answer_c": "Pielonefrite aguda",
+        "answer_d": "Litíase renal"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual sintoma pode estar presente na crise hipertensiva?",
+        "correct_answer": "answer_d",
+        "answer_a": "Prurido cutâneo",
+        "answer_b": "Tosse seca",
+        "answer_c": "Dor abdominal",
+        "answer_d": "Cefaleia intensa"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual condição clínica aumenta significativamente o risco cardiovascular em hipertensos?",
+        "correct_answer": "answer_a",
+        "answer_a": "Diabetes mellitus",
+        "answer_b": "Rinite alérgica",
+        "answer_c": "Hipotireoidismo",
+        "answer_d": "Asma leve"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado clínico sugere dissecção aguda de aorta em paciente hipertenso?",
+        "correct_answer": "answer_b",
+        "answer_a": "Dor torácica em aperto",
+        "answer_b": "Dor súbita, intensa, em rasgo",
+        "answer_c": "Dispneia progressiva",
+        "answer_d": "Tosse crônica"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Na avaliação semiológica do hipertenso, qual achado indica pior prognóstico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Cefaleia ocasional",
+        "answer_b": "PA levemente elevada",
+        "answer_c": "Lesão de órgão-alvo",
+        "answer_d": "Ansiedade associada"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso apresenta hipotensão postural. Esse achado pode estar relacionado a:",
+        "correct_answer": "answer_d",
+        "answer_a": "Progressão natural da doença",
+        "answer_b": "Hipervolemia",
+        "answer_c": "Crise hipertensiva",
+        "answer_d": "Uso excessivo de anti-hipertensivos"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Qual achado diferencia hipertensão arterial controlada de não controlada?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tipo de medicamento utilizado",
+        "answer_b": "Níveis pressóricos dentro da meta e ausência de sintomas",
+        "answer_c": "Tempo de diagnóstico",
+        "answer_d": "Idade do paciente"
+    },
+    {
+        "subject": "Hipertensão Arterial Sistêmica",
+        "title": "Paciente hipertenso apresenta palpitações, sudorese e cefaleia episódica. Qual causa secundária deve ser investigada?",
+        "correct_answer": "answer_c",
+        "answer_a": "Hiperaldosteronismo",
+        "answer_b": "Estenose de artéria renal",
+        "answer_c": "Feocromocitoma",
+        "answer_d": "Hipotireoidismo"
+    }
+]

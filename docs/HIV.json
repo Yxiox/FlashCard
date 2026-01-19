@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "HIV",
+        "title": "Qual é a principal via de transmissão do HIV?",
+        "correct_answer": "answer_b",
+        "answer_a": "Contato casual com secreções respiratórias",
+        "answer_b": "Contato sexual desprotegido",
+        "answer_c": "Picada de insetos hematófagos",
+        "answer_d": "Ingestão de alimentos contaminados"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual célula é o principal alvo do HIV?",
+        "correct_answer": "answer_c",
+        "answer_a": "Neutrófilo",
+        "answer_b": "Célula NK",
+        "answer_c": "Linfócito T CD4+",
+        "answer_d": "Linfócito B"
+    },
+    {
+        "subject": "HIV",
+        "title": "Na fase aguda da infecção pelo HIV, qual manifestação clínica é mais comum?",
+        "correct_answer": "answer_a",
+        "answer_a": "Síndrome gripal com febre e linfadenomegalia",
+        "answer_b": "Infecções oportunistas graves",
+        "answer_c": "Caquexia intensa",
+        "answer_d": "Déficits neurológicos focais"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual achado semiológico é típico da fase crônica do HIV sem AIDS?",
+        "correct_answer": "answer_d",
+        "answer_a": "Febre alta persistente",
+        "answer_b": "Pneumonia recorrente",
+        "answer_c": "Neurotoxoplasmose",
+        "answer_d": "Linfadenopatia generalizada persistente"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual manifestação cutânea é frequentemente associada ao HIV?",
+        "correct_answer": "answer_b",
+        "answer_a": "Vitiligo",
+        "answer_b": "Dermatite seborreica extensa",
+        "answer_c": "Psoríase ungueal isolada",
+        "answer_d": "Urticária aguda autolimitada"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta perda ponderal significativa e diarreia crônica. Esse quadro sugere:",
+        "correct_answer": "answer_c",
+        "answer_a": "Síndrome do intestino irritável",
+        "answer_b": "Doença celíaca",
+        "answer_c": "Síndrome consumptiva associada ao HIV",
+        "answer_d": "Colite ulcerativa"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual achado oral é mais comum em pacientes com HIV?",
+        "correct_answer": "answer_a",
+        "answer_a": "Candidíase oral",
+        "answer_b": "Leucoplasia pilosa traumática",
+        "answer_c": "Gengivite bacteriana simples",
+        "answer_d": "Afta traumática isolada"
+    },
+    {
+        "subject": "HIV",
+        "title": "Na anamnese, qual achado sugere progressão para AIDS?",
+        "correct_answer": "answer_d",
+        "answer_a": "Cefaleia episódica",
+        "answer_b": "Linfadenopatia localizada",
+        "answer_c": "Dermatite seborreica leve",
+        "answer_d": "Infecção oportunista definidora"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual infecção oportunista é mais associada a CD4 < 200 células/mm³?",
+        "correct_answer": "answer_b",
+        "answer_a": "Tuberculose ganglionar",
+        "answer_b": "Pneumocistose",
+        "answer_c": "Herpes simples recorrente",
+        "answer_d": "Candidíase vaginal"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta dispneia progressiva, tosse seca e hipoxemia. Qual diagnóstico deve ser priorizado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Asma brônquica",
+        "answer_b": "Tuberculose pulmonar",
+        "answer_c": "Pneumonia por Pneumocystis jirovecii",
+        "answer_d": "Bronquite viral"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual achado neurológico sugere neurotoxoplasmose em paciente com HIV?",
+        "correct_answer": "answer_d",
+        "answer_a": "Cefaleia tensional isolada",
+        "answer_b": "Confusão mental reversível",
+        "answer_c": "Rigidez de nuca com febre alta",
+        "answer_d": "Déficit neurológico focal associado a convulsões"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual neoplasia é definidora de AIDS?",
+        "correct_answer": "answer_a",
+        "answer_a": "Sarcoma de Kaposi",
+        "answer_b": "Câncer de pulmão",
+        "answer_c": "Carcinoma hepatocelular",
+        "answer_d": "Melanoma cutâneo"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta placas violáceas em pele e mucosas. Esse achado sugere:",
+        "correct_answer": "answer_b",
+        "answer_a": "Vasculite sistêmica",
+        "answer_b": "Sarcoma de Kaposi",
+        "answer_c": "Melanoma metastático",
+        "answer_d": "Púrpura trombocitopênica"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual alteração hematológica é comum em pacientes com HIV avançado?",
+        "correct_answer": "answer_c",
+        "answer_a": "Policitemia",
+        "answer_b": "Trombocitose",
+        "answer_c": "Anemia",
+        "answer_d": "Leucocitose neutrofílica persistente"
+    },
+    {
+        "subject": "HIV",
+        "title": "Em relação à febre em paciente com HIV, qual afirmação é correta?",
+        "correct_answer": "answer_b",
+        "answer_a": "Sempre indica infecção bacteriana simples",
+        "answer_b": "Pode ser manifestação de infecção oportunista ou neoplasia",
+        "answer_c": "Não ocorre na fase avançada",
+        "answer_d": "É irrelevante na avaliação clínica"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual condição clínica aumenta significativamente o risco de progressão do HIV?",
+        "correct_answer": "answer_d",
+        "answer_a": "Hipertensão arterial",
+        "answer_b": "Dislipidemia",
+        "answer_c": "Atividade física intensa",
+        "answer_d": "Ausência de terapia antirretroviral"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta diarreia crônica e emagrecimento. Qual agente oportunista é mais provável?",
+        "correct_answer": "answer_a",
+        "answer_a": "Cryptosporidium",
+        "answer_b": "Escherichia coli enterotoxigênica",
+        "answer_c": "Salmonella não tifoide",
+        "answer_d": "Rotavírus"
+    },
+    {
+        "subject": "HIV",
+        "title": "Na avaliação semiológica do paciente com HIV avançado, qual achado indica pior prognóstico?",
+        "correct_answer": "answer_c",
+        "answer_a": "Dermatite seborreica",
+        "answer_b": "Linfadenopatia cervical",
+        "answer_c": "Infecções oportunistas recorrentes",
+        "answer_d": "Herpes labial esporádico"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual mecanismo fisiopatológico explica a imunodeficiência no HIV?",
+        "correct_answer": "answer_b",
+        "answer_a": "Ativação excessiva de neutrófilos",
+        "answer_b": "Destruição progressiva dos linfócitos T CD4+",
+        "answer_c": "Inibição da produção de anticorpos",
+        "answer_d": "Supressão da medula óssea isolada"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta cefaleia, febre e rigidez de nuca. Qual diagnóstico deve ser considerado?",
+        "correct_answer": "answer_d",
+        "answer_a": "Neurotoxoplasmose",
+        "answer_b": "AVC isquêmico",
+        "answer_c": "Enxaqueca",
+        "answer_d": "Meningite criptocócica"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual achado sugere síndrome de reconstituição imune?",
+        "correct_answer": "answer_a",
+        "answer_a": "Piora paradoxal de infecção após início da TARV",
+        "answer_b": "Queda abrupta da carga viral",
+        "answer_c": "Desaparecimento dos sintomas",
+        "answer_d": "Hipoglicemia persistente"
+    },
+    {
+        "subject": "HIV",
+        "title": "Em pacientes com HIV, qual exame clínico deve ser realizado rotineiramente na semiologia?",
+        "correct_answer": "answer_c",
+        "answer_a": "Apenas ausculta cardíaca",
+        "answer_b": "Somente exame abdominal",
+        "answer_c": "Avaliação global incluindo pele, mucosas e linfonodos",
+        "answer_d": "Exame neurológico apenas se houver queixa"
+    },
+    {
+        "subject": "HIV",
+        "title": "Qual achado clínico diferencia HIV avançado de fase assintomática?",
+        "correct_answer": "answer_b",
+        "answer_a": "Febre ocasional",
+        "answer_b": "Doenças oportunistas definidoras",
+        "answer_c": "Cefaleia leve",
+        "answer_d": "Dermatite leve"
+    },
+    {
+        "subject": "HIV",
+        "title": "Paciente com HIV apresenta tosse crônica, emagrecimento e sudorese noturna. Qual coinfecção deve ser sempre investigada?",
+        "correct_answer": "answer_d",
+        "answer_a": "Pneumonia bacteriana",
+        "answer_b": "Asma",
+        "answer_c": "Bronquite crônica",
+        "answer_d": "Tuberculose"
+    }
+]
